@@ -1,0 +1,1516 @@
+[Epoch 0] PriorNet Train Loss: 1.113747
+[Epoch 0] PriorNet Test | PSNR: 26.732645 | SAM: 5.525478
+[Best PriorNet Updated] Epoch: 0 | PSNR: 26.732645 | SAM: 5.525478
+[Epoch 1] PriorNet Train Loss: 0.491929
+[Epoch 2] PriorNet Train Loss: 0.393870
+[Epoch 0] PriorNet Train Loss: 1.099444
+[Epoch 0] PriorNet Test | PSNR: 26.814926 | SAM: 5.664820
+[Best PriorNet Updated] Epoch: 0 | PSNR: 26.814926 | SAM: 5.664820
+[Epoch 0] PriorNet Train Loss: 1.109826
+[Epoch 0] PriorNet Test | PSNR: 25.007153 | SAM: 7.190189
+[Best PriorNet Updated] Epoch: 0 | PSNR: 25.007153 | SAM: 7.190189
+[Epoch 1] PriorNet Train Loss: 0.514458
+[Epoch 2] PriorNet Train Loss: 0.413201
+[Epoch 3] PriorNet Train Loss: 0.389143
+[Epoch 4] PriorNet Train Loss: 0.364592
+[Epoch 5] PriorNet Train Loss: 0.349673
+[Epoch 5] PriorNet Test | PSNR: 29.707058 | SAM: 3.770881
+[Best PriorNet Updated] Epoch: 5 | PSNR: 29.707058 | SAM: 3.770881
+[Epoch 6] PriorNet Train Loss: 0.329553
+[Epoch 7] PriorNet Train Loss: 0.307624
+[Epoch 8] PriorNet Train Loss: 0.288033
+[Epoch 9] PriorNet Train Loss: 0.269194
+[Epoch 10] PriorNet Train Loss: 0.251140
+[Epoch 10] PriorNet Test | PSNR: 30.112873 | SAM: 3.325726
+[Best PriorNet Updated] Epoch: 10 | PSNR: 30.112873 | SAM: 3.325726
+[Epoch 11] PriorNet Train Loss: 0.230074
+[Epoch 12] PriorNet Train Loss: 0.211884
+[Epoch 13] PriorNet Train Loss: 0.190846
+[Epoch 14] PriorNet Train Loss: 0.176425
+[Epoch 15] PriorNet Train Loss: 0.162750
+[Epoch 15] PriorNet Test | PSNR: 30.562450 | SAM: 2.862566
+[Best PriorNet Updated] Epoch: 15 | PSNR: 30.562450 | SAM: 2.862566
+[Epoch 16] PriorNet Train Loss: 0.153628
+[Epoch 17] PriorNet Train Loss: 0.149484
+[Epoch 18] PriorNet Train Loss: 0.144568
+[Epoch 19] PriorNet Train Loss: 0.141818
+[Epoch 20] PriorNet Train Loss: 0.139919
+[Epoch 20] PriorNet Test | PSNR: 30.923809 | SAM: 2.807479
+[Best PriorNet Updated] Epoch: 20 | PSNR: 30.923809 | SAM: 2.807479
+[Epoch 21] PriorNet Train Loss: 0.137228
+[Epoch 22] PriorNet Train Loss: 0.134373
+[Epoch 23] PriorNet Train Loss: 0.133090
+[Epoch 24] PriorNet Train Loss: 0.131231
+[Epoch 25] PriorNet Train Loss: 0.129773
+[Epoch 25] PriorNet Test | PSNR: 31.050488 | SAM: 2.591175
+[Best PriorNet Updated] Epoch: 25 | PSNR: 31.050488 | SAM: 2.591175
+[Epoch 26] PriorNet Train Loss: 0.127245
+[Epoch 27] PriorNet Train Loss: 0.124956
+[Epoch 28] PriorNet Train Loss: 0.123708
+[Epoch 29] PriorNet Train Loss: 0.122437
+[Epoch 30] PriorNet Train Loss: 0.121866
+[Epoch 30] PriorNet Test | PSNR: 30.901737 | SAM: 2.709261
+[Epoch 31] PriorNet Train Loss: 0.118546
+[Epoch 32] PriorNet Train Loss: 0.116779
+[Epoch 33] PriorNet Train Loss: 0.116409
+[Epoch 34] PriorNet Train Loss: 0.114323
+[Epoch 35] PriorNet Train Loss: 0.112232
+[Epoch 35] PriorNet Test | PSNR: 31.207302 | SAM: 2.553754
+[Best PriorNet Updated] Epoch: 35 | PSNR: 31.207302 | SAM: 2.553754
+[Epoch 36] PriorNet Train Loss: 0.110253
+[Epoch 37] PriorNet Train Loss: 0.109116
+[Epoch 38] PriorNet Train Loss: 0.107387
+[Epoch 39] PriorNet Train Loss: 0.106614
+[Epoch 40] PriorNet Train Loss: 0.104973
+[Epoch 40] PriorNet Test | PSNR: 31.053982 | SAM: 2.588124
+[Epoch 41] PriorNet Train Loss: 0.103691
+[Epoch 42] PriorNet Train Loss: 0.101763
+[Epoch 43] PriorNet Train Loss: 0.101297
+[Epoch 44] PriorNet Train Loss: 0.101306
+[Epoch 45] PriorNet Train Loss: 0.099484
+[Epoch 45] PriorNet Test | PSNR: 30.773285 | SAM: 2.561604
+[Epoch 46] PriorNet Train Loss: 0.096647
+[Epoch 47] PriorNet Train Loss: 0.097182
+[Epoch 48] PriorNet Train Loss: 0.096150
+[Epoch 49] PriorNet Train Loss: 0.096561
+[Epoch 50] PriorNet Train Loss: 0.094444
+[Epoch 50] PriorNet Test | PSNR: 31.464514 | SAM: 2.449807
+[Best PriorNet Updated] Epoch: 50 | PSNR: 31.464514 | SAM: 2.449807
+[Epoch 51] PriorNet Train Loss: 0.094854
+[Epoch 52] PriorNet Train Loss: 0.092331
+[Epoch 53] PriorNet Train Loss: 0.092641
+[Epoch 54] PriorNet Train Loss: 0.092031
+[Epoch 55] PriorNet Train Loss: 0.090830
+[Epoch 55] PriorNet Test | PSNR: 31.141235 | SAM: 2.370381
+[Epoch 56] PriorNet Train Loss: 0.088965
+[Epoch 57] PriorNet Train Loss: 0.089923
+[Epoch 58] PriorNet Train Loss: 0.088492
+[Epoch 59] PriorNet Train Loss: 0.087789
+[Epoch 60] PriorNet Train Loss: 0.088240
+[Epoch 60] PriorNet Test | PSNR: 31.363262 | SAM: 2.304137
+[Epoch 61] PriorNet Train Loss: 0.087467
+[Epoch 62] PriorNet Train Loss: 0.086354
+[Epoch 63] PriorNet Train Loss: 0.085951
+[Epoch 64] PriorNet Train Loss: 0.084851
+[Epoch 65] PriorNet Train Loss: 0.084236
+[Epoch 65] PriorNet Test | PSNR: 30.976559 | SAM: 2.471004
+[Epoch 66] PriorNet Train Loss: 0.084682
+[Epoch 67] PriorNet Train Loss: 0.084350
+[Epoch 68] PriorNet Train Loss: 0.083974
+[Epoch 69] PriorNet Train Loss: 0.082695
+[Epoch 70] PriorNet Train Loss: 0.081908
+[Epoch 70] PriorNet Test | PSNR: 30.933811 | SAM: 2.390558
+[Epoch 71] PriorNet Train Loss: 0.081923
+[Epoch 72] PriorNet Train Loss: 0.082111
+[Epoch 73] PriorNet Train Loss: 0.080832
+[Epoch 74] PriorNet Train Loss: 0.081296
+[Epoch 75] PriorNet Train Loss: 0.080676
+[Epoch 75] PriorNet Test | PSNR: 31.303534 | SAM: 2.273620
+[Epoch 76] PriorNet Train Loss: 0.081874
+[Epoch 77] PriorNet Train Loss: 0.079819
+[Epoch 78] PriorNet Train Loss: 0.078438
+[Epoch 79] PriorNet Train Loss: 0.078840
+[Epoch 80] PriorNet Train Loss: 0.077867
+[Epoch 80] PriorNet Test | PSNR: 30.975006 | SAM: 2.293546
+[Epoch 81] PriorNet Train Loss: 0.077702
+[Epoch 82] PriorNet Train Loss: 0.076525
+[Epoch 83] PriorNet Train Loss: 0.075833
+[Epoch 84] PriorNet Train Loss: 0.076330
+[Epoch 85] PriorNet Train Loss: 0.074116
+[Epoch 85] PriorNet Test | PSNR: 31.381870 | SAM: 2.226945
+[Epoch 86] PriorNet Train Loss: 0.075123
+[Epoch 87] PriorNet Train Loss: 0.074498
+[Epoch 88] PriorNet Train Loss: 0.073641
+[Epoch 89] PriorNet Train Loss: 0.072269
+[Epoch 90] PriorNet Train Loss: 0.071898
+[Epoch 90] PriorNet Test | PSNR: 31.523727 | SAM: 2.231368
+[Best PriorNet Updated] Epoch: 90 | PSNR: 31.523727 | SAM: 2.231368
+[Epoch 91] PriorNet Train Loss: 0.071942
+[Epoch 92] PriorNet Train Loss: 0.069906
+[Epoch 93] PriorNet Train Loss: 0.069974
+[Epoch 94] PriorNet Train Loss: 0.069415
+[Epoch 95] PriorNet Train Loss: 0.069195
+[Epoch 95] PriorNet Test | PSNR: 31.085348 | SAM: 2.427293
+[Epoch 96] PriorNet Train Loss: 0.067682
+[Epoch 97] PriorNet Train Loss: 0.066550
+[Epoch 98] PriorNet Train Loss: 0.067050
+[Epoch 99] PriorNet Train Loss: 0.065219
+[Epoch 100] PriorNet Train Loss: 0.065264
+[Epoch 100] PriorNet Test | PSNR: 31.106602 | SAM: 2.301927
+[Epoch 101] PriorNet Train Loss: 0.064393
+[Epoch 102] PriorNet Train Loss: 0.064140
+[Epoch 103] PriorNet Train Loss: 0.065182
+[Epoch 104] PriorNet Train Loss: 0.064558
+[Epoch 105] PriorNet Train Loss: 0.062708
+[Epoch 105] PriorNet Test | PSNR: 31.337063 | SAM: 2.240362
+[Epoch 106] PriorNet Train Loss: 0.063972
+[Epoch 107] PriorNet Train Loss: 0.062015
+[Epoch 108] PriorNet Train Loss: 0.062371
+[Epoch 109] PriorNet Train Loss: 0.062021
+[Epoch 110] PriorNet Train Loss: 0.062527
+[Epoch 110] PriorNet Test | PSNR: 31.620575 | SAM: 2.236724
+[Best PriorNet Updated] Epoch: 110 | PSNR: 31.620575 | SAM: 2.236724
+[Epoch 111] PriorNet Train Loss: 0.062020
+[Epoch 112] PriorNet Train Loss: 0.061651
+[Epoch 113] PriorNet Train Loss: 0.063242
+[Epoch 114] PriorNet Train Loss: 0.062699
+[Epoch 115] PriorNet Train Loss: 0.062599
+[Epoch 115] PriorNet Test | PSNR: 31.156155 | SAM: 2.225067
+[Epoch 116] PriorNet Train Loss: 0.060379
+[Epoch 117] PriorNet Train Loss: 0.061436
+[Epoch 118] PriorNet Train Loss: 0.060487
+[Epoch 119] PriorNet Train Loss: 0.060503
+[Epoch 120] PriorNet Train Loss: 0.060865
+[Epoch 120] PriorNet Test | PSNR: 31.321259 | SAM: 2.212666
+[Epoch 121] PriorNet Train Loss: 0.061939
+[Epoch 122] PriorNet Train Loss: 0.060375
+[Epoch 123] PriorNet Train Loss: 0.061950
+[Epoch 124] PriorNet Train Loss: 0.060038
+[Epoch 125] PriorNet Train Loss: 0.060063
+[Epoch 125] PriorNet Test | PSNR: 31.279608 | SAM: 2.313262
+[Epoch 126] PriorNet Train Loss: 0.059688
+[Epoch 127] PriorNet Train Loss: 0.058812
+[Epoch 128] PriorNet Train Loss: 0.059882
+[Epoch 129] PriorNet Train Loss: 0.059052
+[Epoch 130] PriorNet Train Loss: 0.058839
+[Epoch 130] PriorNet Test | PSNR: 31.104595 | SAM: 2.217808
+[Epoch 131] PriorNet Train Loss: 0.058802
+[Epoch 132] PriorNet Train Loss: 0.058675
+[Epoch 133] PriorNet Train Loss: 0.059086
+[Epoch 134] PriorNet Train Loss: 0.058532
+[Epoch 135] PriorNet Train Loss: 0.058897
+[Epoch 135] PriorNet Test | PSNR: 31.564722 | SAM: 2.181694
+[Epoch 136] PriorNet Train Loss: 0.058021
+[Epoch 137] PriorNet Train Loss: 0.058793
+[Epoch 138] PriorNet Train Loss: 0.057968
+[Epoch 139] PriorNet Train Loss: 0.058598
+[Epoch 140] PriorNet Train Loss: 0.057646
+[Epoch 140] PriorNet Test | PSNR: 31.443363 | SAM: 2.166011
+[Epoch 141] PriorNet Train Loss: 0.057163
+[Epoch 142] PriorNet Train Loss: 0.057242
+[Epoch 143] PriorNet Train Loss: 0.056975
+[Epoch 144] PriorNet Train Loss: 0.056649
+[Epoch 145] PriorNet Train Loss: 0.056310
+[Epoch 145] PriorNet Test | PSNR: 31.482370 | SAM: 2.156719
+[Epoch 146] PriorNet Train Loss: 0.055371
+[Epoch 147] PriorNet Train Loss: 0.057594
+[Epoch 148] PriorNet Train Loss: 0.055892
+[Epoch 149] PriorNet Train Loss: 0.055595
+[Epoch 150] PriorNet Train Loss: 0.055174
+[Epoch 150] PriorNet Test | PSNR: 31.514816 | SAM: 2.159140
+[Epoch 151] PriorNet Train Loss: 0.055363
+[Epoch 152] PriorNet Train Loss: 0.055827
+[Epoch 153] PriorNet Train Loss: 0.056026
+[Epoch 154] PriorNet Train Loss: 0.054664
+[Epoch 155] PriorNet Train Loss: 0.054528
+[Epoch 155] PriorNet Test | PSNR: 31.676514 | SAM: 2.163034
+[Best PriorNet Updated] Epoch: 155 | PSNR: 31.676514 | SAM: 2.163034
+[Epoch 156] PriorNet Train Loss: 0.054284
+[Epoch 157] PriorNet Train Loss: 0.054024
+[Epoch 158] PriorNet Train Loss: 0.054402
+[Epoch 159] PriorNet Train Loss: 0.053195
+[Epoch 160] PriorNet Train Loss: 0.054166
+[Epoch 160] PriorNet Test | PSNR: 31.528585 | SAM: 2.142159
+[Epoch 161] PriorNet Train Loss: 0.054459
+[Epoch 162] PriorNet Train Loss: 0.052985
+[Epoch 163] PriorNet Train Loss: 0.053159
+[Epoch 164] PriorNet Train Loss: 0.053141
+[Epoch 165] PriorNet Train Loss: 0.052160
+[Epoch 165] PriorNet Test | PSNR: 31.576771 | SAM: 2.149066
+[Epoch 166] PriorNet Train Loss: 0.053993
+[Epoch 167] PriorNet Train Loss: 0.052218
+[Epoch 168] PriorNet Train Loss: 0.051591
+[Epoch 169] PriorNet Train Loss: 0.051668
+[Epoch 170] PriorNet Train Loss: 0.051562
+[Epoch 170] PriorNet Test | PSNR: 31.649435 | SAM: 2.108520
+[Epoch 171] PriorNet Train Loss: 0.051731
+[Epoch 172] PriorNet Train Loss: 0.051054
+[Epoch 173] PriorNet Train Loss: 0.050704
+[Epoch 174] PriorNet Train Loss: 0.050176
+[Epoch 175] PriorNet Train Loss: 0.051217
+[Epoch 175] PriorNet Test | PSNR: 31.582935 | SAM: 2.174036
+[Epoch 176] PriorNet Train Loss: 0.051061
+[Epoch 177] PriorNet Train Loss: 0.050403
+[Epoch 178] PriorNet Train Loss: 0.051041
+[Epoch 179] PriorNet Train Loss: 0.050487
+[Epoch 180] PriorNet Train Loss: 0.049970
+[Epoch 180] PriorNet Test | PSNR: 31.322895 | SAM: 2.218279
+[Epoch 181] PriorNet Train Loss: 0.049621
+[Epoch 182] PriorNet Train Loss: 0.049550
+[Epoch 183] PriorNet Train Loss: 0.049573
+[Epoch 184] PriorNet Train Loss: 0.049123
+[Epoch 185] PriorNet Train Loss: 0.048754
+[Epoch 185] PriorNet Test | PSNR: 31.417744 | SAM: 2.155643
+[Epoch 186] PriorNet Train Loss: 0.048475
+[Epoch 187] PriorNet Train Loss: 0.049303
+[Epoch 188] PriorNet Train Loss: 0.048818
+[Epoch 189] PriorNet Train Loss: 0.048787
+[Epoch 190] PriorNet Train Loss: 0.048209
+[Epoch 190] PriorNet Test | PSNR: 31.481134 | SAM: 2.162919
+[Epoch 191] PriorNet Train Loss: 0.048687
+[Epoch 192] PriorNet Train Loss: 0.047542
+[Epoch 193] PriorNet Train Loss: 0.047720
+[Epoch 194] PriorNet Train Loss: 0.047462
+[Epoch 195] PriorNet Train Loss: 0.047786
+[Epoch 195] PriorNet Test | PSNR: 31.224773 | SAM: 2.113315
+[Epoch 196] PriorNet Train Loss: 0.047395
+[Epoch 197] PriorNet Train Loss: 0.046739
+[Epoch 198] PriorNet Train Loss: 0.047534
+[Epoch 199] PriorNet Train Loss: 0.047874
+[Epoch 200] PriorNet Train Loss: 0.046647
+[Epoch 200] PriorNet Test | PSNR: 31.377949 | SAM: 2.143070
+[Epoch 201] PriorNet Train Loss: 0.047896
+[Epoch 202] PriorNet Train Loss: 0.046896
+[Epoch 203] PriorNet Train Loss: 0.047210
+[Epoch 204] PriorNet Train Loss: 0.046611
+[Epoch 205] PriorNet Train Loss: 0.045958
+[Epoch 205] PriorNet Test | PSNR: 31.516033 | SAM: 2.153388
+[Epoch 206] PriorNet Train Loss: 0.046811
+[Epoch 207] PriorNet Train Loss: 0.045788
+[Epoch 208] PriorNet Train Loss: 0.045993
+[Epoch 209] PriorNet Train Loss: 0.045726
+[Epoch 210] PriorNet Train Loss: 0.045818
+[Epoch 210] PriorNet Test | PSNR: 31.307877 | SAM: 2.135053
+[Epoch 211] PriorNet Train Loss: 0.045652
+[Epoch 212] PriorNet Train Loss: 0.045428
+[Epoch 213] PriorNet Train Loss: 0.044950
+[Epoch 214] PriorNet Train Loss: 0.045405
+[Epoch 215] PriorNet Train Loss: 0.047018
+[Epoch 215] PriorNet Test | PSNR: 31.591991 | SAM: 2.118873
+[Epoch 216] PriorNet Train Loss: 0.044722
+[Epoch 217] PriorNet Train Loss: 0.044954
+[Epoch 218] PriorNet Train Loss: 0.045950
+[Epoch 219] PriorNet Train Loss: 0.045788
+[Epoch 220] PriorNet Train Loss: 0.045400
+[Epoch 220] PriorNet Test | PSNR: 31.598886 | SAM: 2.115015
+[Epoch 221] PriorNet Train Loss: 0.044633
+[Epoch 222] PriorNet Train Loss: 0.044175
+[Epoch 223] PriorNet Train Loss: 0.044394
+[Epoch 224] PriorNet Train Loss: 0.044093
+[Epoch 225] PriorNet Train Loss: 0.044289
+[Epoch 225] PriorNet Test | PSNR: 31.508951 | SAM: 2.133676
+[Epoch 226] PriorNet Train Loss: 0.044263
+[Epoch 227] PriorNet Train Loss: 0.044596
+[Epoch 228] PriorNet Train Loss: 0.044259
+[Epoch 229] PriorNet Train Loss: 0.043984
+[Epoch 230] PriorNet Train Loss: 0.044424
+[Epoch 230] PriorNet Test | PSNR: 31.435703 | SAM: 2.128304
+[Epoch 231] PriorNet Train Loss: 0.043690
+[Epoch 232] PriorNet Train Loss: 0.043975
+[Epoch 233] PriorNet Train Loss: 0.043859
+[Epoch 234] PriorNet Train Loss: 0.044078
+[Epoch 235] PriorNet Train Loss: 0.044517
+[Epoch 235] PriorNet Test | PSNR: 31.599216 | SAM: 2.090292
+[Epoch 236] PriorNet Train Loss: 0.043786
+[Epoch 237] PriorNet Train Loss: 0.043907
+[Epoch 238] PriorNet Train Loss: 0.043407
+[Epoch 239] PriorNet Train Loss: 0.043653
+[Epoch 240] PriorNet Train Loss: 0.042932
+[Epoch 240] PriorNet Test | PSNR: 31.619858 | SAM: 2.095218
+[Epoch 241] PriorNet Train Loss: 0.045181
+[Epoch 242] PriorNet Train Loss: 0.043429
+[Epoch 243] PriorNet Train Loss: 0.043294
+[Epoch 244] PriorNet Train Loss: 0.042989
+[Epoch 245] PriorNet Train Loss: 0.043124
+[Epoch 245] PriorNet Test | PSNR: 31.641409 | SAM: 2.098237
+[Epoch 246] PriorNet Train Loss: 0.043662
+[Epoch 247] PriorNet Train Loss: 0.042931
+[Epoch 248] PriorNet Train Loss: 0.043450
+[Epoch 249] PriorNet Train Loss: 0.043840
+[Epoch 250] PriorNet Train Loss: 0.043684
+[Epoch 250] PriorNet Test | PSNR: 31.570095 | SAM: 2.157845
+[Epoch 251] PriorNet Train Loss: 0.043577
+[Epoch 252] PriorNet Train Loss: 0.042511
+[Epoch 253] PriorNet Train Loss: 0.042698
+[Epoch 254] PriorNet Train Loss: 0.043287
+[Epoch 255] PriorNet Train Loss: 0.042299
+[Epoch 255] PriorNet Test | PSNR: 31.464619 | SAM: 2.113868
+[Epoch 256] PriorNet Train Loss: 0.042296
+[Epoch 257] PriorNet Train Loss: 0.042742
+[Epoch 258] PriorNet Train Loss: 0.042689
+[Epoch 259] PriorNet Train Loss: 0.043098
+[Epoch 260] PriorNet Train Loss: 0.042091
+[Epoch 260] PriorNet Test | PSNR: 31.636036 | SAM: 2.088612
+[Epoch 261] PriorNet Train Loss: 0.042731
+[Epoch 262] PriorNet Train Loss: 0.042216
+[Epoch 263] PriorNet Train Loss: 0.041672
+[Epoch 264] PriorNet Train Loss: 0.042397
+[Epoch 265] PriorNet Train Loss: 0.041734
+[Epoch 265] PriorNet Test | PSNR: 31.225815 | SAM: 2.125462
+[Epoch 266] PriorNet Train Loss: 0.041682
+[Epoch 267] PriorNet Train Loss: 0.042040
+[Epoch 268] PriorNet Train Loss: 0.042133
+[Epoch 269] PriorNet Train Loss: 0.041851
+[Epoch 270] PriorNet Train Loss: 0.041667
+[Epoch 270] PriorNet Test | PSNR: 31.719494 | SAM: 2.095420
+[Best PriorNet Updated] Epoch: 270 | PSNR: 31.719494 | SAM: 2.095420
+[Epoch 271] PriorNet Train Loss: 0.041601
+[Epoch 272] PriorNet Train Loss: 0.041969
+[Epoch 273] PriorNet Train Loss: 0.042178
+[Epoch 274] PriorNet Train Loss: 0.041779
+[Epoch 275] PriorNet Train Loss: 0.041223
+[Epoch 275] PriorNet Test | PSNR: 31.350885 | SAM: 2.111008
+[Epoch 276] PriorNet Train Loss: 0.041173
+[Epoch 277] PriorNet Train Loss: 0.041248
+[Epoch 278] PriorNet Train Loss: 0.041614
+[Epoch 279] PriorNet Train Loss: 0.041606
+[Epoch 280] PriorNet Train Loss: 0.041422
+[Epoch 280] PriorNet Test | PSNR: 31.651028 | SAM: 2.095093
+[Epoch 281] PriorNet Train Loss: 0.041723
+[Epoch 282] PriorNet Train Loss: 0.041515
+[Epoch 283] PriorNet Train Loss: 0.041108
+[Epoch 284] PriorNet Train Loss: 0.040761
+[Epoch 285] PriorNet Train Loss: 0.040971
+[Epoch 285] PriorNet Test | PSNR: 31.694311 | SAM: 2.105816
+[Epoch 286] PriorNet Train Loss: 0.040819
+[Epoch 287] PriorNet Train Loss: 0.040682
+[Epoch 288] PriorNet Train Loss: 0.040904
+[Epoch 289] PriorNet Train Loss: 0.041300
+[Epoch 290] PriorNet Train Loss: 0.041513
+[Epoch 290] PriorNet Test | PSNR: 31.596634 | SAM: 2.095827
+[Epoch 291] PriorNet Train Loss: 0.040345
+[Epoch 292] PriorNet Train Loss: 0.040844
+[Epoch 293] PriorNet Train Loss: 0.041182
+[Epoch 294] PriorNet Train Loss: 0.041024
+[Epoch 295] PriorNet Train Loss: 0.040675
+[Epoch 295] PriorNet Test | PSNR: 31.610485 | SAM: 2.094898
+[Epoch 296] PriorNet Train Loss: 0.041022
+[Epoch 297] PriorNet Train Loss: 0.040145
+[Epoch 298] PriorNet Train Loss: 0.041084
+[Epoch 299] PriorNet Train Loss: 0.040293
+[Epoch 300] PriorNet Train Loss: 0.040399
+[Epoch 300] PriorNet Test | PSNR: 31.500004 | SAM: 2.116618
+[Epoch 301] PriorNet Train Loss: 0.040544
+[Epoch 302] PriorNet Train Loss: 0.040284
+[Epoch 303] PriorNet Train Loss: 0.040517
+[Epoch 304] PriorNet Train Loss: 0.040274
+[Epoch 305] PriorNet Train Loss: 0.040481
+[Epoch 305] PriorNet Test | PSNR: 31.554211 | SAM: 2.077061
+[Epoch 306] PriorNet Train Loss: 0.039914
+[Epoch 307] PriorNet Train Loss: 0.040467
+[Epoch 308] PriorNet Train Loss: 0.040023
+[Epoch 309] PriorNet Train Loss: 0.040710
+[Epoch 310] PriorNet Train Loss: 0.040092
+[Epoch 310] PriorNet Test | PSNR: 31.577484 | SAM: 2.118445
+[Epoch 311] PriorNet Train Loss: 0.040054
+[Epoch 312] PriorNet Train Loss: 0.040172
+[Epoch 313] PriorNet Train Loss: 0.040273
+[Epoch 314] PriorNet Train Loss: 0.039673
+[Epoch 315] PriorNet Train Loss: 0.039795
+[Epoch 315] PriorNet Test | PSNR: 31.522385 | SAM: 2.115170
+[Epoch 316] PriorNet Train Loss: 0.039610
+[Epoch 317] PriorNet Train Loss: 0.039706
+[Epoch 318] PriorNet Train Loss: 0.039683
+[Epoch 319] PriorNet Train Loss: 0.039621
+[Epoch 320] PriorNet Train Loss: 0.039593
+[Epoch 320] PriorNet Test | PSNR: 31.698498 | SAM: 2.097638
+[Epoch 321] PriorNet Train Loss: 0.039830
+[Epoch 322] PriorNet Train Loss: 0.039709
+[Epoch 323] PriorNet Train Loss: 0.039701
+[Epoch 324] PriorNet Train Loss: 0.039928
+[Epoch 325] PriorNet Train Loss: 0.039834
+[Epoch 325] PriorNet Test | PSNR: 31.729202 | SAM: 2.115966
+[Best PriorNet Updated] Epoch: 325 | PSNR: 31.729202 | SAM: 2.115966
+[Epoch 326] PriorNet Train Loss: 0.039559
+[Epoch 327] PriorNet Train Loss: 0.039533
+[Epoch 328] PriorNet Train Loss: 0.039760
+[Epoch 329] PriorNet Train Loss: 0.039643
+[Epoch 330] PriorNet Train Loss: 0.039306
+[Epoch 330] PriorNet Test | PSNR: 31.556133 | SAM: 2.099439
+[Epoch 331] PriorNet Train Loss: 0.039249
+[Epoch 332] PriorNet Train Loss: 0.039502
+[Epoch 333] PriorNet Train Loss: 0.039496
+[Epoch 334] PriorNet Train Loss: 0.039719
+[Epoch 335] PriorNet Train Loss: 0.039325
+[Epoch 335] PriorNet Test | PSNR: 31.664606 | SAM: 2.088992
+[Epoch 336] PriorNet Train Loss: 0.039139
+[Epoch 337] PriorNet Train Loss: 0.039113
+[Epoch 338] PriorNet Train Loss: 0.038994
+[Epoch 339] PriorNet Train Loss: 0.039252
+[Epoch 340] PriorNet Train Loss: 0.039032
+[Epoch 340] PriorNet Test | PSNR: 31.498829 | SAM: 2.082716
+[Epoch 341] PriorNet Train Loss: 0.039039
+[Epoch 342] PriorNet Train Loss: 0.039153
+[Epoch 343] PriorNet Train Loss: 0.038935
+[Epoch 344] PriorNet Train Loss: 0.039374
+[Epoch 345] PriorNet Train Loss: 0.039082
+[Epoch 345] PriorNet Test | PSNR: 31.561270 | SAM: 2.072718
+[Epoch 346] PriorNet Train Loss: 0.038929
+[Epoch 347] PriorNet Train Loss: 0.039210
+[Epoch 348] PriorNet Train Loss: 0.038592
+[Epoch 349] PriorNet Train Loss: 0.039095
+[Epoch 350] PriorNet Train Loss: 0.038721
+[Epoch 350] PriorNet Test | PSNR: 31.439718 | SAM: 2.085822
+[Epoch 351] PriorNet Train Loss: 0.038777
+[Epoch 352] PriorNet Train Loss: 0.038894
+[Epoch 353] PriorNet Train Loss: 0.038789
+[Epoch 354] PriorNet Train Loss: 0.038897
+[Epoch 355] PriorNet Train Loss: 0.038774
+[Epoch 355] PriorNet Test | PSNR: 31.537069 | SAM: 2.084507
+[Epoch 356] PriorNet Train Loss: 0.038724
+[Epoch 357] PriorNet Train Loss: 0.038658
+[Epoch 358] PriorNet Train Loss: 0.038775
+[Epoch 359] PriorNet Train Loss: 0.038825
+[Epoch 360] PriorNet Train Loss: 0.038466
+[Epoch 360] PriorNet Test | PSNR: 31.629314 | SAM: 2.099550
+[Epoch 361] PriorNet Train Loss: 0.038498
+[Epoch 362] PriorNet Train Loss: 0.038641
+[Epoch 363] PriorNet Train Loss: 0.038598
+[Epoch 364] PriorNet Train Loss: 0.038629
+[Epoch 365] PriorNet Train Loss: 0.038522
+[Epoch 365] PriorNet Test | PSNR: 31.648050 | SAM: 2.089394
+[Epoch 366] PriorNet Train Loss: 0.038645
+[Epoch 367] PriorNet Train Loss: 0.038460
+[Epoch 368] PriorNet Train Loss: 0.038299
+[Epoch 369] PriorNet Train Loss: 0.038357
+[Epoch 370] PriorNet Train Loss: 0.038378
+[Epoch 370] PriorNet Test | PSNR: 31.639303 | SAM: 2.065446
+[Epoch 371] PriorNet Train Loss: 0.038162
+[Epoch 372] PriorNet Train Loss: 0.038188
+[Epoch 373] PriorNet Train Loss: 0.038122
+[Epoch 374] PriorNet Train Loss: 0.038056
+[Epoch 375] PriorNet Train Loss: 0.038334
+[Epoch 375] PriorNet Test | PSNR: 31.600143 | SAM: 2.070539
+[Epoch 376] PriorNet Train Loss: 0.038430
+[Epoch 377] PriorNet Train Loss: 0.038246
+[Epoch 378] PriorNet Train Loss: 0.038341
+[Epoch 379] PriorNet Train Loss: 0.038339
+[Epoch 380] PriorNet Train Loss: 0.038179
+[Epoch 380] PriorNet Test | PSNR: 31.653904 | SAM: 2.088836
+[Epoch 381] PriorNet Train Loss: 0.038043
+[Epoch 382] PriorNet Train Loss: 0.038452
+[Epoch 383] PriorNet Train Loss: 0.038056
+[Epoch 384] PriorNet Train Loss: 0.038250
+[Epoch 385] PriorNet Train Loss: 0.038197
+[Epoch 385] PriorNet Test | PSNR: 31.518747 | SAM: 2.072564
+[Epoch 386] PriorNet Train Loss: 0.038449
+[Epoch 387] PriorNet Train Loss: 0.038180
+[Epoch 388] PriorNet Train Loss: 0.038195
+[Epoch 389] PriorNet Train Loss: 0.038010
+[Epoch 390] PriorNet Train Loss: 0.038140
+[Epoch 390] PriorNet Test | PSNR: 31.571875 | SAM: 2.064955
+[Epoch 391] PriorNet Train Loss: 0.038196
+[Epoch 392] PriorNet Train Loss: 0.037828
+[Epoch 393] PriorNet Train Loss: 0.038072
+[Epoch 394] PriorNet Train Loss: 0.037926
+[Epoch 395] PriorNet Train Loss: 0.038072
+[Epoch 395] PriorNet Test | PSNR: 31.669720 | SAM: 2.078811
+[Epoch 396] PriorNet Train Loss: 0.038037
+[Epoch 397] PriorNet Train Loss: 0.037708
+[Epoch 398] PriorNet Train Loss: 0.037979
+[Epoch 399] PriorNet Train Loss: 0.037882
+[Epoch 400] PriorNet Train Loss: 0.037966
+[Epoch 400] PriorNet Test | PSNR: 31.692694 | SAM: 2.052499
+[Epoch 401] PriorNet Train Loss: 0.038252
+[Epoch 402] PriorNet Train Loss: 0.037886
+[Epoch 403] PriorNet Train Loss: 0.037760
+[Epoch 404] PriorNet Train Loss: 0.037865
+[Epoch 405] PriorNet Train Loss: 0.037522
+[Epoch 405] PriorNet Test | PSNR: 31.535278 | SAM: 2.082317
+[Epoch 406] PriorNet Train Loss: 0.037764
+[Epoch 407] PriorNet Train Loss: 0.037837
+[Epoch 408] PriorNet Train Loss: 0.037870
+[Epoch 409] PriorNet Train Loss: 0.037631
+[Epoch 410] PriorNet Train Loss: 0.037617
+[Epoch 410] PriorNet Test | PSNR: 31.651953 | SAM: 2.056928
+[Epoch 411] PriorNet Train Loss: 0.037678
+[Epoch 412] PriorNet Train Loss: 0.037575
+[Epoch 413] PriorNet Train Loss: 0.037716
+[Epoch 414] PriorNet Train Loss: 0.037710
+[Epoch 415] PriorNet Train Loss: 0.037703
+[Epoch 415] PriorNet Test | PSNR: 31.471542 | SAM: 2.086605
+[Epoch 416] PriorNet Train Loss: 0.037534
+[Epoch 417] PriorNet Train Loss: 0.037537
+[Epoch 418] PriorNet Train Loss: 0.037617
+[Epoch 419] PriorNet Train Loss: 0.037496
+[Epoch 420] PriorNet Train Loss: 0.037592
+[Epoch 420] PriorNet Test | PSNR: 31.524780 | SAM: 2.076404
+[Epoch 421] PriorNet Train Loss: 0.037419
+[Epoch 422] PriorNet Train Loss: 0.037515
+[Epoch 423] PriorNet Train Loss: 0.037512
+[Epoch 424] PriorNet Train Loss: 0.037515
+[Epoch 425] PriorNet Train Loss: 0.037623
+[Epoch 425] PriorNet Test | PSNR: 31.633209 | SAM: 2.061713
+[Epoch 426] PriorNet Train Loss: 0.037399
+[Epoch 427] PriorNet Train Loss: 0.037315
+[Epoch 428] PriorNet Train Loss: 0.037313
+[Epoch 429] PriorNet Train Loss: 0.037465
+[Epoch 430] PriorNet Train Loss: 0.037452
+[Epoch 430] PriorNet Test | PSNR: 31.577423 | SAM: 2.068927
+[Epoch 431] PriorNet Train Loss: 0.037402
+[Epoch 432] PriorNet Train Loss: 0.037269
+[Epoch 433] PriorNet Train Loss: 0.037383
+[Epoch 434] PriorNet Train Loss: 0.037170
+[Epoch 435] PriorNet Train Loss: 0.037456
+[Epoch 435] PriorNet Test | PSNR: 31.750210 | SAM: 2.056534
+[Best PriorNet Updated] Epoch: 435 | PSNR: 31.750210 | SAM: 2.056534
+[Epoch 436] PriorNet Train Loss: 0.037299
+[Epoch 437] PriorNet Train Loss: 0.037486
+[Epoch 438] PriorNet Train Loss: 0.037253
+[Epoch 439] PriorNet Train Loss: 0.037277
+[Epoch 440] PriorNet Train Loss: 0.037458
+[Epoch 440] PriorNet Test | PSNR: 31.684513 | SAM: 2.060289
+[Epoch 441] PriorNet Train Loss: 0.037313
+[Epoch 442] PriorNet Train Loss: 0.037314
+[Epoch 443] PriorNet Train Loss: 0.037388
+[Epoch 444] PriorNet Train Loss: 0.037463
+[Epoch 445] PriorNet Train Loss: 0.037105
+[Epoch 445] PriorNet Test | PSNR: 31.545277 | SAM: 2.069935
+[Epoch 446] PriorNet Train Loss: 0.037213
+[Epoch 447] PriorNet Train Loss: 0.037143
+[Epoch 448] PriorNet Train Loss: 0.037246
+[Epoch 449] PriorNet Train Loss: 0.037115
+[Epoch 450] PriorNet Train Loss: 0.037021
+[Epoch 450] PriorNet Test | PSNR: 31.617146 | SAM: 2.058672
+[Epoch 451] PriorNet Train Loss: 0.037148
+[Epoch 452] PriorNet Train Loss: 0.037036
+[Epoch 453] PriorNet Train Loss: 0.037251
+[Epoch 454] PriorNet Train Loss: 0.037250
+[Epoch 455] PriorNet Train Loss: 0.037251
+[Epoch 455] PriorNet Test | PSNR: 31.544315 | SAM: 2.073771
+[Epoch 456] PriorNet Train Loss: 0.037115
+[Epoch 457] PriorNet Train Loss: 0.037163
+[Epoch 458] PriorNet Train Loss: 0.037125
+[Epoch 459] PriorNet Train Loss: 0.037128
+[Epoch 460] PriorNet Train Loss: 0.037201
+[Epoch 460] PriorNet Test | PSNR: 31.725048 | SAM: 2.050194
+[Epoch 461] PriorNet Train Loss: 0.037065
+[Epoch 462] PriorNet Train Loss: 0.037107
+[Epoch 463] PriorNet Train Loss: 0.037141
+[Epoch 464] PriorNet Train Loss: 0.036961
+[Epoch 465] PriorNet Train Loss: 0.037126
+[Epoch 465] PriorNet Test | PSNR: 31.591904 | SAM: 2.073423
+[Epoch 466] PriorNet Train Loss: 0.037040
+[Epoch 467] PriorNet Train Loss: 0.037188
+[Epoch 468] PriorNet Train Loss: 0.036863
+[Epoch 469] PriorNet Train Loss: 0.036881
+[Epoch 470] PriorNet Train Loss: 0.036921
+[Epoch 470] PriorNet Test | PSNR: 31.613974 | SAM: 2.058409
+[Epoch 471] PriorNet Train Loss: 0.037136
+[Epoch 472] PriorNet Train Loss: 0.037046
+[Epoch 473] PriorNet Train Loss: 0.036984
+[Epoch 474] PriorNet Train Loss: 0.036821
+[Epoch 475] PriorNet Train Loss: 0.036873
+[Epoch 475] PriorNet Test | PSNR: 31.557993 | SAM: 2.067771
+[Epoch 476] PriorNet Train Loss: 0.036931
+[Epoch 477] PriorNet Train Loss: 0.036993
+[Epoch 478] PriorNet Train Loss: 0.036839
+[Epoch 479] PriorNet Train Loss: 0.036913
+[Epoch 480] PriorNet Train Loss: 0.036923
+[Epoch 480] PriorNet Test | PSNR: 31.609777 | SAM: 2.069570
+[Epoch 481] PriorNet Train Loss: 0.036878
+[Epoch 482] PriorNet Train Loss: 0.036777
+[Epoch 483] PriorNet Train Loss: 0.037139
+[Epoch 484] PriorNet Train Loss: 0.036797
+[Epoch 485] PriorNet Train Loss: 0.036895
+[Epoch 485] PriorNet Test | PSNR: 31.672506 | SAM: 2.052125
+[Epoch 486] PriorNet Train Loss: 0.036871
+[Epoch 487] PriorNet Train Loss: 0.036932
+[Epoch 488] PriorNet Train Loss: 0.036800
+[Epoch 489] PriorNet Train Loss: 0.036767
+[Epoch 490] PriorNet Train Loss: 0.037034
+[Epoch 490] PriorNet Test | PSNR: 31.567984 | SAM: 2.080789
+[Epoch 491] PriorNet Train Loss: 0.036849
+[Epoch 492] PriorNet Train Loss: 0.036741
+[Epoch 493] PriorNet Train Loss: 0.036830
+[Epoch 494] PriorNet Train Loss: 0.036751
+[Epoch 495] PriorNet Train Loss: 0.036765
+[Epoch 495] PriorNet Test | PSNR: 31.625702 | SAM: 2.048066
+[Epoch 496] PriorNet Train Loss: 0.036829
+[Epoch 497] PriorNet Train Loss: 0.036782
+[Epoch 498] PriorNet Train Loss: 0.036725
+[Epoch 499] PriorNet Train Loss: 0.037158
+[Epoch 500] PriorNet Train Loss: 0.036739
+[Epoch 500] PriorNet Test | PSNR: 31.566391 | SAM: 2.071834
+[Epoch 501] PriorNet Train Loss: 0.036702
+[Epoch 502] PriorNet Train Loss: 0.036622
+[Epoch 503] PriorNet Train Loss: 0.036703
+[Epoch 504] PriorNet Train Loss: 0.036758
+[Epoch 505] PriorNet Train Loss: 0.036841
+[Epoch 505] PriorNet Test | PSNR: 31.478012 | SAM: 2.084183
+[Epoch 506] PriorNet Train Loss: 0.036658
+[Epoch 507] PriorNet Train Loss: 0.036737
+[Epoch 508] PriorNet Train Loss: 0.036637
+[Epoch 509] PriorNet Train Loss: 0.036786
+[Epoch 510] PriorNet Train Loss: 0.036704
+[Epoch 510] PriorNet Test | PSNR: 31.542013 | SAM: 2.053928
+[Epoch 511] PriorNet Train Loss: 0.036629
+[Epoch 512] PriorNet Train Loss: 0.036667
+[Epoch 513] PriorNet Train Loss: 0.036678
+[Epoch 514] PriorNet Train Loss: 0.036638
+[Epoch 515] PriorNet Train Loss: 0.036571
+[Epoch 515] PriorNet Test | PSNR: 31.507771 | SAM: 2.072378
+[Epoch 516] PriorNet Train Loss: 0.036637
+[Epoch 517] PriorNet Train Loss: 0.036696
+[Epoch 518] PriorNet Train Loss: 0.036691
+[Epoch 519] PriorNet Train Loss: 0.036650
+[Epoch 520] PriorNet Train Loss: 0.036615
+[Epoch 520] PriorNet Test | PSNR: 31.573801 | SAM: 2.067353
+[Epoch 521] PriorNet Train Loss: 0.036636
+[Epoch 522] PriorNet Train Loss: 0.036671
+[Epoch 523] PriorNet Train Loss: 0.036570
+[Epoch 524] PriorNet Train Loss: 0.036655
+[Epoch 525] PriorNet Train Loss: 0.036580
+[Epoch 525] PriorNet Test | PSNR: 31.610371 | SAM: 2.059303
+[Epoch 526] PriorNet Train Loss: 0.036609
+[Epoch 527] PriorNet Train Loss: 0.036598
+[Epoch 528] PriorNet Train Loss: 0.036586
+[Epoch 529] PriorNet Train Loss: 0.036602
+[Epoch 530] PriorNet Train Loss: 0.036648
+[Epoch 530] PriorNet Test | PSNR: 31.657431 | SAM: 2.055446
+[Epoch 531] PriorNet Train Loss: 0.036577
+[Epoch 532] PriorNet Train Loss: 0.036570
+[Epoch 533] PriorNet Train Loss: 0.036571
+[Epoch 534] PriorNet Train Loss: 0.036510
+[Epoch 535] PriorNet Train Loss: 0.036827
+[Epoch 535] PriorNet Test | PSNR: 31.655527 | SAM: 2.057846
+[Epoch 536] PriorNet Train Loss: 0.036557
+[Epoch 537] PriorNet Train Loss: 0.036585
+[Epoch 538] PriorNet Train Loss: 0.036576
+[Epoch 539] PriorNet Train Loss: 0.036585
+[Epoch 540] PriorNet Train Loss: 0.036576
+[Epoch 540] PriorNet Test | PSNR: 31.638340 | SAM: 2.060719
+[Epoch 541] PriorNet Train Loss: 0.036532
+[Epoch 542] PriorNet Train Loss: 0.036546
+[Epoch 543] PriorNet Train Loss: 0.036553
+[Epoch 544] PriorNet Train Loss: 0.036439
+[Epoch 545] PriorNet Train Loss: 0.036421
+[Epoch 545] PriorNet Test | PSNR: 31.569530 | SAM: 2.075923
+[Epoch 546] PriorNet Train Loss: 0.036531
+[Epoch 547] PriorNet Train Loss: 0.036482
+[Epoch 548] PriorNet Train Loss: 0.036479
+[Epoch 549] PriorNet Train Loss: 0.036420
+[Epoch 550] PriorNet Train Loss: 0.036646
+[Epoch 550] PriorNet Test | PSNR: 31.504795 | SAM: 2.072088
+[Epoch 551] PriorNet Train Loss: 0.036430
+[Epoch 552] PriorNet Train Loss: 0.036554
+[Epoch 553] PriorNet Train Loss: 0.036597
+[Epoch 554] PriorNet Train Loss: 0.036488
+[Epoch 555] PriorNet Train Loss: 0.036609
+[Epoch 555] PriorNet Test | PSNR: 31.519119 | SAM: 2.079251
+[Epoch 556] PriorNet Train Loss: 0.036347
+[Epoch 557] PriorNet Train Loss: 0.036498
+[Epoch 558] PriorNet Train Loss: 0.036678
+[Epoch 559] PriorNet Train Loss: 0.036327
+[Epoch 560] PriorNet Train Loss: 0.036497
+[Epoch 560] PriorNet Test | PSNR: 31.704269 | SAM: 2.054030
+[Epoch 561] PriorNet Train Loss: 0.036355
+[Epoch 562] PriorNet Train Loss: 0.036401
+[Epoch 563] PriorNet Train Loss: 0.036516
+[Epoch 564] PriorNet Train Loss: 0.036557
+[Epoch 565] PriorNet Train Loss: 0.036404
+[Epoch 565] PriorNet Test | PSNR: 31.722128 | SAM: 2.055899
+[Epoch 566] PriorNet Train Loss: 0.036437
+[Epoch 567] PriorNet Train Loss: 0.036268
+[Epoch 568] PriorNet Train Loss: 0.036554
+[Epoch 569] PriorNet Train Loss: 0.036405
+[Epoch 570] PriorNet Train Loss: 0.036481
+[Epoch 570] PriorNet Test | PSNR: 31.564753 | SAM: 2.066837
+[Epoch 571] PriorNet Train Loss: 0.036318
+[Epoch 572] PriorNet Train Loss: 0.036377
+[Epoch 573] PriorNet Train Loss: 0.036320
+[Epoch 574] PriorNet Train Loss: 0.036263
+[Epoch 575] PriorNet Train Loss: 0.036157
+[Epoch 575] PriorNet Test | PSNR: 31.655731 | SAM: 2.055725
+[Epoch 576] PriorNet Train Loss: 0.036423
+[Epoch 577] PriorNet Train Loss: 0.036446
+[Epoch 578] PriorNet Train Loss: 0.036642
+[Epoch 579] PriorNet Train Loss: 0.036319
+[Epoch 580] PriorNet Train Loss: 0.036502
+[Epoch 580] PriorNet Test | PSNR: 31.490936 | SAM: 2.080102
+[Epoch 581] PriorNet Train Loss: 0.036361
+[Epoch 582] PriorNet Train Loss: 0.036367
+[Epoch 583] PriorNet Train Loss: 0.036282
+[Epoch 584] PriorNet Train Loss: 0.036259
+[Epoch 585] PriorNet Train Loss: 0.036247
+[Epoch 585] PriorNet Test | PSNR: 31.565723 | SAM: 2.079541
+[Epoch 586] PriorNet Train Loss: 0.036273
+[Epoch 587] PriorNet Train Loss: 0.036613
+[Epoch 588] PriorNet Train Loss: 0.036224
+[Epoch 589] PriorNet Train Loss: 0.036251
+[Epoch 590] PriorNet Train Loss: 0.036403
+[Epoch 590] PriorNet Test | PSNR: 31.531963 | SAM: 2.061404
+[Epoch 591] PriorNet Train Loss: 0.036152
+[Epoch 592] PriorNet Train Loss: 0.036266
+[Epoch 593] PriorNet Train Loss: 0.036392
+[Epoch 594] PriorNet Train Loss: 0.036366
+[Epoch 595] PriorNet Train Loss: 0.036055
+[Epoch 595] PriorNet Test | PSNR: 31.525629 | SAM: 2.072306
+[Epoch 596] PriorNet Train Loss: 0.036118
+[Epoch 597] PriorNet Train Loss: 0.036140
+[Epoch 598] PriorNet Train Loss: 0.036378
+[Epoch 599] PriorNet Train Loss: 0.036562
+[Epoch 0] TrainUALNet: 1 | Train_UALNet_Loss: 0.024478 | Train_D_Loss: 1.695524 | Real_Prob: 0.242132 | Fake_Prob: 0.242135
+[Epoch 0] UALNet Test | PSNR: 25.057859 | SAM: 6.546969
+[Best UALNet Updated] Epoch: 0 | PSNR: 25.057859 | SAM: 6.546969
+[Epoch 1] TrainUALNet: 1 | Train_UALNet_Loss: 0.002458 | Train_D_Loss: 1.695518 | Real_Prob: 0.242132 | Fake_Prob: 0.242132
+[Epoch 2] TrainUALNet: 1 | Train_UALNet_Loss: 0.001935 | Train_D_Loss: 1.695517 | Real_Prob: 0.242132 | Fake_Prob: 0.242132
+[Epoch 3] TrainUALNet: 1 | Train_UALNet_Loss: 0.001667 | Train_D_Loss: 1.695518 | Real_Prob: 0.242132 | Fake_Prob: 0.242132
+[Epoch 4] TrainUALNet: 1 | Train_UALNet_Loss: 0.001496 | Train_D_Loss: 1.695519 | Real_Prob: 0.242132 | Fake_Prob: 0.242132
+[Epoch 5] TrainUALNet: 0 | Train_UALNet_Loss: 0.001517 | Train_D_Loss: 1.654987 | Real_Prob: 0.257408 | Fake_Prob: 0.257399
+[Epoch 5] UALNet Test | PSNR: 28.709900 | SAM: 4.371857
+[Best UALNet Updated] Epoch: 5 | PSNR: 28.709900 | SAM: 4.371857
+[Epoch 6] TrainUALNet: 0 | Train_UALNet_Loss: 0.001469 | Train_D_Loss: 1.584148 | Real_Prob: 0.287449 | Fake_Prob: 0.285477
+[Epoch 7] TrainUALNet: 0 | Train_UALNet_Loss: 0.001533 | Train_D_Loss: 1.443700 | Real_Prob: 0.356933 | Fake_Prob: 0.336239
+[Epoch 8] TrainUALNet: 0 | Train_UALNet_Loss: 0.001541 | Train_D_Loss: 1.259495 | Real_Prob: 0.459337 | Fake_Prob: 0.379537
+[Epoch 9] TrainUALNet: 0 | Train_UALNet_Loss: 0.001548 | Train_D_Loss: 1.186673 | Real_Prob: 0.536306 | Fake_Prob: 0.422673
+[Epoch 10] TrainUALNet: 1 | Train_UALNet_Loss: 0.001493 | Train_D_Loss: 1.287950 | Real_Prob: 0.591605 | Fake_Prob: 0.522159
+[Epoch 10] UALNet Test | PSNR: 29.418476 | SAM: 4.150272
+[Best UALNet Updated] Epoch: 10 | PSNR: 29.418476 | SAM: 4.150272
+[Epoch 11] TrainUALNet: 1 | Train_UALNet_Loss: 0.001319 | Train_D_Loss: 1.305137 | Real_Prob: 0.600162 | Fake_Prob: 0.538154
+[Epoch 12] TrainUALNet: 1 | Train_UALNet_Loss: 0.001305 | Train_D_Loss: 1.307461 | Real_Prob: 0.595716 | Fake_Prob: 0.533434
+[Epoch 13] TrainUALNet: 1 | Train_UALNet_Loss: 0.001210 | Train_D_Loss: 1.313604 | Real_Prob: 0.600103 | Fake_Prob: 0.543588
+[Epoch 14] TrainUALNet: 1 | Train_UALNet_Loss: 0.001116 | Train_D_Loss: 1.331213 | Real_Prob: 0.598112 | Fake_Prob: 0.548691
+[Epoch 15] TrainUALNet: 0 | Train_UALNet_Loss: 0.001145 | Train_D_Loss: 1.130026 | Real_Prob: 0.564245 | Fake_Prob: 0.415487
+[Epoch 15] UALNet Test | PSNR: 29.624329 | SAM: 3.925794
+[Best UALNet Updated] Epoch: 15 | PSNR: 29.624329 | SAM: 3.925794
+[Epoch 16] TrainUALNet: 0 | Train_UALNet_Loss: 0.001097 | Train_D_Loss: 1.084352 | Real_Prob: 0.616121 | Fake_Prob: 0.436815
+[Epoch 17] TrainUALNet: 0 | Train_UALNet_Loss: 0.001161 | Train_D_Loss: 1.020026 | Real_Prob: 0.629995 | Fake_Prob: 0.410456
+[Epoch 18] TrainUALNet: 0 | Train_UALNet_Loss: 0.001145 | Train_D_Loss: 1.001504 | Real_Prob: 0.641903 | Fake_Prob: 0.413498
+[Epoch 19] TrainUALNet: 0 | Train_UALNet_Loss: 0.001123 | Train_D_Loss: 0.951596 | Real_Prob: 0.657860 | Fake_Prob: 0.397004
+[Epoch 20] TrainUALNet: 1 | Train_UALNet_Loss: 0.001101 | Train_D_Loss: 1.213889 | Real_Prob: 0.758902 | Fake_Prob: 0.571785
+[Epoch 20] UALNet Test | PSNR: 29.942326 | SAM: 3.574250
+[Best UALNet Updated] Epoch: 20 | PSNR: 29.942326 | SAM: 3.574250
+[Epoch 21] TrainUALNet: 1 | Train_UALNet_Loss: 0.001112 | Train_D_Loss: 1.460640 | Real_Prob: 0.749636 | Fake_Prob: 0.653402
+[Epoch 22] TrainUALNet: 1 | Train_UALNet_Loss: 0.001075 | Train_D_Loss: 1.438950 | Real_Prob: 0.759530 | Fake_Prob: 0.653629
+[Epoch 23] TrainUALNet: 1 | Train_UALNet_Loss: 0.001084 | Train_D_Loss: 1.516677 | Real_Prob: 0.756919 | Fake_Prob: 0.676960
+[Epoch 24] TrainUALNet: 1 | Train_UALNet_Loss: 0.001050 | Train_D_Loss: 1.485949 | Real_Prob: 0.755636 | Fake_Prob: 0.667514
+[Epoch 25] TrainUALNet: 0 | Train_UALNet_Loss: 0.001080 | Train_D_Loss: 1.048678 | Real_Prob: 0.633661 | Fake_Prob: 0.428183
+[Epoch 25] UALNet Test | PSNR: 29.530415 | SAM: 3.728471
+[Epoch 26] TrainUALNet: 0 | Train_UALNet_Loss: 0.001049 | Train_D_Loss: 0.956060 | Real_Prob: 0.665911 | Fake_Prob: 0.408949
+[Epoch 27] TrainUALNet: 0 | Train_UALNet_Loss: 0.001071 | Train_D_Loss: 0.927570 | Real_Prob: 0.686206 | Fake_Prob: 0.411673
+[Epoch 28] TrainUALNet: 0 | Train_UALNet_Loss: 0.001118 | Train_D_Loss: 0.901184 | Real_Prob: 0.692089 | Fake_Prob: 0.397373
+[Epoch 29] TrainUALNet: 0 | Train_UALNet_Loss: 0.001096 | Train_D_Loss: 0.822368 | Real_Prob: 0.737107 | Fake_Prob: 0.391520
+[Epoch 30] TrainUALNet: 1 | Train_UALNet_Loss: 0.001018 | Train_D_Loss: 0.924701 | Real_Prob: 0.671333 | Fake_Prob: 0.385589
+[Epoch 30] UALNet Test | PSNR: 30.113419 | SAM: 3.438803
+[Best UALNet Updated] Epoch: 30 | PSNR: 30.113419 | SAM: 3.438803
+[Epoch 31] TrainUALNet: 1 | Train_UALNet_Loss: 0.001007 | Train_D_Loss: 0.971711 | Real_Prob: 0.674865 | Fake_Prob: 0.418871
+[Epoch 32] TrainUALNet: 1 | Train_UALNet_Loss: 0.000971 | Train_D_Loss: 0.954928 | Real_Prob: 0.673305 | Fake_Prob: 0.412328
+[Epoch 33] TrainUALNet: 1 | Train_UALNet_Loss: 0.000988 | Train_D_Loss: 0.998293 | Real_Prob: 0.676735 | Fake_Prob: 0.436550
+[Epoch 34] TrainUALNet: 1 | Train_UALNet_Loss: 0.001000 | Train_D_Loss: 1.002893 | Real_Prob: 0.674902 | Fake_Prob: 0.436443
+[Epoch 35] TrainUALNet: 0 | Train_UALNet_Loss: 0.001293 | Train_D_Loss: 0.981532 | Real_Prob: 0.677996 | Fake_Prob: 0.428130
+[Epoch 35] UALNet Test | PSNR: 28.428537 | SAM: 4.258856
+[Epoch 36] TrainUALNet: 0 | Train_UALNet_Loss: 0.001334 | Train_D_Loss: 0.894992 | Real_Prob: 0.700303 | Fake_Prob: 0.402690
+[Epoch 37] TrainUALNet: 0 | Train_UALNet_Loss: 0.001333 | Train_D_Loss: 0.849460 | Real_Prob: 0.724938 | Fake_Prob: 0.396164
+[Epoch 38] TrainUALNet: 0 | Train_UALNet_Loss: 0.001348 | Train_D_Loss: 0.828037 | Real_Prob: 0.715549 | Fake_Prob: 0.375558
+[Epoch 39] TrainUALNet: 0 | Train_UALNet_Loss: 0.001293 | Train_D_Loss: 0.745260 | Real_Prob: 0.734831 | Fake_Prob: 0.335566
+[Epoch 40] TrainUALNet: 1 | Train_UALNet_Loss: 0.001011 | Train_D_Loss: 0.788285 | Real_Prob: 0.758794 | Fake_Prob: 0.365970
+[Epoch 40] UALNet Test | PSNR: 29.973627 | SAM: 3.304308
+[Epoch 41] TrainUALNet: 1 | Train_UALNet_Loss: 0.000948 | Train_D_Loss: 0.842630 | Real_Prob: 0.763930 | Fake_Prob: 0.410605
+[Epoch 42] TrainUALNet: 1 | Train_UALNet_Loss: 0.000922 | Train_D_Loss: 0.904119 | Real_Prob: 0.762663 | Fake_Prob: 0.441060
+[Epoch 43] TrainUALNet: 1 | Train_UALNet_Loss: 0.001000 | Train_D_Loss: 0.870000 | Real_Prob: 0.762717 | Fake_Prob: 0.430304
+[Epoch 44] TrainUALNet: 1 | Train_UALNet_Loss: 0.000877 | Train_D_Loss: 0.951284 | Real_Prob: 0.761489 | Fake_Prob: 0.464206
+[Epoch 45] TrainUALNet: 0 | Train_UALNet_Loss: 0.000945 | Train_D_Loss: 1.010210 | Real_Prob: 0.639656 | Fake_Prob: 0.387358
+[Epoch 45] UALNet Test | PSNR: 29.854839 | SAM: 3.219112
+[Epoch 46] TrainUALNet: 0 | Train_UALNet_Loss: 0.000988 | Train_D_Loss: 0.804422 | Real_Prob: 0.689645 | Fake_Prob: 0.316854
+[Epoch 47] TrainUALNet: 0 | Train_UALNet_Loss: 0.000966 | Train_D_Loss: 0.701144 | Real_Prob: 0.720816 | Fake_Prob: 0.283855
+[Epoch 48] TrainUALNet: 0 | Train_UALNet_Loss: 0.000925 | Train_D_Loss: 0.671455 | Real_Prob: 0.728812 | Fake_Prob: 0.253823
+[Epoch 49] TrainUALNet: 0 | Train_UALNet_Loss: 0.000981 | Train_D_Loss: 0.561479 | Real_Prob: 0.756224 | Fake_Prob: 0.219406
+[Epoch 50] TrainUALNet: 1 | Train_UALNet_Loss: 0.000917 | Train_D_Loss: 1.118421 | Real_Prob: 0.828746 | Fake_Prob: 0.546570
+[Epoch 50] UALNet Test | PSNR: 30.167664 | SAM: 3.191071
+[Best UALNet Updated] Epoch: 50 | PSNR: 30.167664 | SAM: 3.191071
+[Epoch 51] TrainUALNet: 1 | Train_UALNet_Loss: 0.000966 | Train_D_Loss: 1.058207 | Real_Prob: 0.823496 | Fake_Prob: 0.528162
+[Epoch 52] TrainUALNet: 1 | Train_UALNet_Loss: 0.000921 | Train_D_Loss: 1.111263 | Real_Prob: 0.827203 | Fake_Prob: 0.538147
+[Epoch 53] TrainUALNet: 1 | Train_UALNet_Loss: 0.000873 | Train_D_Loss: 1.194349 | Real_Prob: 0.825925 | Fake_Prob: 0.562688
+[Epoch 54] TrainUALNet: 1 | Train_UALNet_Loss: 0.000821 | Train_D_Loss: 1.239059 | Real_Prob: 0.818869 | Fake_Prob: 0.575780
+[Epoch 55] TrainUALNet: 0 | Train_UALNet_Loss: 0.000894 | Train_D_Loss: 0.894256 | Real_Prob: 0.698544 | Fake_Prob: 0.369380
+[Epoch 55] UALNet Test | PSNR: 29.842264 | SAM: 3.131091
+[Epoch 56] TrainUALNet: 0 | Train_UALNet_Loss: 0.000882 | Train_D_Loss: 0.733934 | Real_Prob: 0.717300 | Fake_Prob: 0.297959
+[Epoch 57] TrainUALNet: 0 | Train_UALNet_Loss: 0.000876 | Train_D_Loss: 0.687733 | Real_Prob: 0.718039 | Fake_Prob: 0.270445
+[Epoch 58] TrainUALNet: 0 | Train_UALNet_Loss: 0.000902 | Train_D_Loss: 0.658785 | Real_Prob: 0.738274 | Fake_Prob: 0.261538
+[Epoch 59] TrainUALNet: 0 | Train_UALNet_Loss: 0.000910 | Train_D_Loss: 0.578384 | Real_Prob: 0.759465 | Fake_Prob: 0.234630
+[Epoch 60] TrainUALNet: 1 | Train_UALNet_Loss: 0.000876 | Train_D_Loss: 0.970260 | Real_Prob: 0.574179 | Fake_Prob: 0.280480
+[Epoch 60] UALNet Test | PSNR: 30.304901 | SAM: 3.068470
+[Best UALNet Updated] Epoch: 60 | PSNR: 30.304901 | SAM: 3.068470
+[Epoch 61] TrainUALNet: 1 | Train_UALNet_Loss: 0.000857 | Train_D_Loss: 1.009361 | Real_Prob: 0.583653 | Fake_Prob: 0.306276
+[Epoch 62] TrainUALNet: 1 | Train_UALNet_Loss: 0.000845 | Train_D_Loss: 1.046373 | Real_Prob: 0.547362 | Fake_Prob: 0.282817
+[Epoch 63] TrainUALNet: 1 | Train_UALNet_Loss: 0.000821 | Train_D_Loss: 1.115094 | Real_Prob: 0.575933 | Fake_Prob: 0.366320
+[Epoch 64] TrainUALNet: 1 | Train_UALNet_Loss: 0.000892 | Train_D_Loss: 1.165747 | Real_Prob: 0.568415 | Fake_Prob: 0.371463
+[Epoch 65] TrainUALNet: 0 | Train_UALNet_Loss: 0.000804 | Train_D_Loss: 0.902348 | Real_Prob: 0.649845 | Fake_Prob: 0.316361
+[Epoch 65] UALNet Test | PSNR: 30.416492 | SAM: 2.957565
+[Best UALNet Updated] Epoch: 65 | PSNR: 30.416492 | SAM: 2.957565
+[Epoch 66] TrainUALNet: 0 | Train_UALNet_Loss: 0.000813 | Train_D_Loss: 0.755974 | Real_Prob: 0.687650 | Fake_Prob: 0.269085
+[Epoch 67] TrainUALNet: 0 | Train_UALNet_Loss: 0.000824 | Train_D_Loss: 0.639832 | Real_Prob: 0.729209 | Fake_Prob: 0.236891
+[Epoch 68] TrainUALNet: 0 | Train_UALNet_Loss: 0.000851 | Train_D_Loss: 0.577450 | Real_Prob: 0.736388 | Fake_Prob: 0.207726
+[Epoch 69] TrainUALNet: 0 | Train_UALNet_Loss: 0.000819 | Train_D_Loss: 0.520655 | Real_Prob: 0.740707 | Fake_Prob: 0.170170
+[Epoch 70] TrainUALNet: 1 | Train_UALNet_Loss: 0.000829 | Train_D_Loss: 2.944970 | Real_Prob: 0.133513 | Fake_Prob: 0.025706
+[Epoch 70] UALNet Test | PSNR: 30.172678 | SAM: 3.169774
+[Epoch 71] TrainUALNet: 1 | Train_UALNet_Loss: 0.000850 | Train_D_Loss: 2.871413 | Real_Prob: 0.138072 | Fake_Prob: 0.031149
+[Epoch 72] TrainUALNet: 1 | Train_UALNet_Loss: 0.000834 | Train_D_Loss: 2.782245 | Real_Prob: 0.148872 | Fake_Prob: 0.039817
+[Epoch 73] TrainUALNet: 1 | Train_UALNet_Loss: 0.000852 | Train_D_Loss: 2.910798 | Real_Prob: 0.140589 | Fake_Prob: 0.026204
+[Epoch 74] TrainUALNet: 1 | Train_UALNet_Loss: 0.000806 | Train_D_Loss: 2.893192 | Real_Prob: 0.141020 | Fake_Prob: 0.025988
+[Epoch 75] TrainUALNet: 0 | Train_UALNet_Loss: 0.000759 | Train_D_Loss: 0.509866 | Real_Prob: 0.767857 | Fake_Prob: 0.188958
+[Epoch 75] UALNet Test | PSNR: 30.403698 | SAM: 2.824923
+[Epoch 76] TrainUALNet: 0 | Train_UALNet_Loss: 0.000780 | Train_D_Loss: 0.390471 | Real_Prob: 0.805055 | Fake_Prob: 0.141218
+[Epoch 77] TrainUALNet: 0 | Train_UALNet_Loss: 0.000769 | Train_D_Loss: 0.356442 | Real_Prob: 0.825614 | Fake_Prob: 0.133730
+[Epoch 78] TrainUALNet: 0 | Train_UALNet_Loss: 0.000758 | Train_D_Loss: 0.275595 | Real_Prob: 0.854258 | Fake_Prob: 0.095466
+[Epoch 79] TrainUALNet: 0 | Train_UALNet_Loss: 0.000776 | Train_D_Loss: 0.239861 | Real_Prob: 0.863180 | Fake_Prob: 0.075554
+[Epoch 80] TrainUALNet: 1 | Train_UALNet_Loss: 0.000894 | Train_D_Loss: 0.394262 | Real_Prob: 0.865150 | Fake_Prob: 0.187609
+[Epoch 80] UALNet Test | PSNR: 30.389227 | SAM: 2.878930
+[Epoch 81] TrainUALNet: 1 | Train_UALNet_Loss: 0.000903 | Train_D_Loss: 0.418249 | Real_Prob: 0.853299 | Fake_Prob: 0.192511
+[Epoch 82] TrainUALNet: 1 | Train_UALNet_Loss: 0.000942 | Train_D_Loss: 0.323347 | Real_Prob: 0.860099 | Fake_Prob: 0.120816
+[Epoch 83] TrainUALNet: 1 | Train_UALNet_Loss: 0.000815 | Train_D_Loss: 0.426535 | Real_Prob: 0.837616 | Fake_Prob: 0.183267
+[Epoch 84] TrainUALNet: 1 | Train_UALNet_Loss: 0.000808 | Train_D_Loss: 0.456223 | Real_Prob: 0.844020 | Fake_Prob: 0.203372
+[Epoch 85] TrainUALNet: 0 | Train_UALNet_Loss: 0.000773 | Train_D_Loss: 0.491365 | Real_Prob: 0.784380 | Fake_Prob: 0.164307
+[Epoch 85] UALNet Test | PSNR: 30.515310 | SAM: 2.830198
+[Best UALNet Updated] Epoch: 85 | PSNR: 30.515310 | SAM: 2.830198
+[Epoch 86] TrainUALNet: 0 | Train_UALNet_Loss: 0.000779 | Train_D_Loss: 0.361021 | Real_Prob: 0.812726 | Fake_Prob: 0.121585
+[Epoch 87] TrainUALNet: 0 | Train_UALNet_Loss: 0.000774 | Train_D_Loss: 0.255850 | Real_Prob: 0.874117 | Fake_Prob: 0.102575
+[Epoch 88] TrainUALNet: 0 | Train_UALNet_Loss: 0.000769 | Train_D_Loss: 0.264061 | Real_Prob: 0.867952 | Fake_Prob: 0.096675
+[Epoch 89] TrainUALNet: 0 | Train_UALNet_Loss: 0.000755 | Train_D_Loss: 0.205139 | Real_Prob: 0.892248 | Fake_Prob: 0.078265
+[Epoch 90] TrainUALNet: 1 | Train_UALNet_Loss: 0.000764 | Train_D_Loss: 0.404925 | Real_Prob: 0.761557 | Fake_Prob: 0.085743
+[Epoch 90] UALNet Test | PSNR: 30.338202 | SAM: 2.773552
+[Epoch 91] TrainUALNet: 1 | Train_UALNet_Loss: 0.000847 | Train_D_Loss: 0.472265 | Real_Prob: 0.762598 | Fake_Prob: 0.109141
+[Epoch 92] TrainUALNet: 1 | Train_UALNet_Loss: 0.000810 | Train_D_Loss: 0.420847 | Real_Prob: 0.745411 | Fake_Prob: 0.076192
+[Epoch 93] TrainUALNet: 1 | Train_UALNet_Loss: 0.000766 | Train_D_Loss: 0.416746 | Real_Prob: 0.757056 | Fake_Prob: 0.086652
+[Epoch 94] TrainUALNet: 1 | Train_UALNet_Loss: 0.000775 | Train_D_Loss: 0.467912 | Real_Prob: 0.752490 | Fake_Prob: 0.074814
+[Epoch 95] TrainUALNet: 0 | Train_UALNet_Loss: 0.000752 | Train_D_Loss: 0.197919 | Real_Prob: 0.899826 | Fake_Prob: 0.075709
+[Epoch 95] UALNet Test | PSNR: 30.493301 | SAM: 2.788830
+[Epoch 96] TrainUALNet: 0 | Train_UALNet_Loss: 0.000758 | Train_D_Loss: 0.239845 | Real_Prob: 0.888419 | Fake_Prob: 0.095093
+[Epoch 97] TrainUALNet: 0 | Train_UALNet_Loss: 0.000761 | Train_D_Loss: 0.148954 | Real_Prob: 0.920775 | Fake_Prob: 0.056677
+[Epoch 98] TrainUALNet: 0 | Train_UALNet_Loss: 0.000787 | Train_D_Loss: 0.137791 | Real_Prob: 0.923082 | Fake_Prob: 0.048278
+[Epoch 99] TrainUALNet: 0 | Train_UALNet_Loss: 0.000723 | Train_D_Loss: 0.177725 | Real_Prob: 0.909622 | Fake_Prob: 0.067007
+[Epoch 100] TrainUALNet: 1 | Train_UALNet_Loss: 0.000795 | Train_D_Loss: 0.314429 | Real_Prob: 0.913445 | Fake_Prob: 0.174048
+[Epoch 100] UALNet Test | PSNR: 30.494944 | SAM: 2.749079
+[Epoch 101] TrainUALNet: 1 | Train_UALNet_Loss: 0.000878 | Train_D_Loss: 0.165760 | Real_Prob: 0.904957 | Fake_Prob: 0.047887
+[Epoch 102] TrainUALNet: 1 | Train_UALNet_Loss: 0.000807 | Train_D_Loss: 0.368792 | Real_Prob: 0.915334 | Fake_Prob: 0.204541
+[Epoch 103] TrainUALNet: 1 | Train_UALNet_Loss: 0.000846 | Train_D_Loss: 0.300202 | Real_Prob: 0.909664 | Fake_Prob: 0.162344
+[Epoch 104] TrainUALNet: 1 | Train_UALNet_Loss: 0.000770 | Train_D_Loss: 0.392472 | Real_Prob: 0.907421 | Fake_Prob: 0.233851
+[Epoch 105] TrainUALNet: 0 | Train_UALNet_Loss: 0.000801 | Train_D_Loss: 0.194370 | Real_Prob: 0.909319 | Fake_Prob: 0.076650
+[Epoch 105] UALNet Test | PSNR: 30.562546 | SAM: 2.741491
+[Best UALNet Updated] Epoch: 105 | PSNR: 30.562546 | SAM: 2.741491
+[Epoch 106] TrainUALNet: 0 | Train_UALNet_Loss: 0.000788 | Train_D_Loss: 0.112819 | Real_Prob: 0.938114 | Fake_Prob: 0.042329
+[Epoch 107] TrainUALNet: 0 | Train_UALNet_Loss: 0.000758 | Train_D_Loss: 0.156307 | Real_Prob: 0.919093 | Fake_Prob: 0.059104
+[Epoch 108] TrainUALNet: 0 | Train_UALNet_Loss: 0.000797 | Train_D_Loss: 0.210017 | Real_Prob: 0.897844 | Fake_Prob: 0.077669
+[Epoch 109] TrainUALNet: 0 | Train_UALNet_Loss: 0.000811 | Train_D_Loss: 0.183430 | Real_Prob: 0.916666 | Fake_Prob: 0.078231
+[Epoch 110] TrainUALNet: 1 | Train_UALNet_Loss: 0.000751 | Train_D_Loss: 0.156692 | Real_Prob: 0.912340 | Fake_Prob: 0.051097
+[Epoch 110] UALNet Test | PSNR: 30.395802 | SAM: 2.762539
+[Epoch 111] TrainUALNet: 1 | Train_UALNet_Loss: 0.000754 | Train_D_Loss: 0.161339 | Real_Prob: 0.899164 | Fake_Prob: 0.043118
+[Epoch 112] TrainUALNet: 1 | Train_UALNet_Loss: 0.000793 | Train_D_Loss: 0.144089 | Real_Prob: 0.921094 | Fake_Prob: 0.051246
+[Epoch 113] TrainUALNet: 1 | Train_UALNet_Loss: 0.000797 | Train_D_Loss: 0.162418 | Real_Prob: 0.916546 | Fake_Prob: 0.061605
+[Epoch 114] TrainUALNet: 1 | Train_UALNet_Loss: 0.000773 | Train_D_Loss: 0.166167 | Real_Prob: 0.907326 | Fake_Prob: 0.054861
+[Epoch 115] TrainUALNet: 0 | Train_UALNet_Loss: 0.000704 | Train_D_Loss: 0.133096 | Real_Prob: 0.933065 | Fake_Prob: 0.054367
+[Epoch 115] UALNet Test | PSNR: 30.714102 | SAM: 2.676588
+[Best UALNet Updated] Epoch: 115 | PSNR: 30.714102 | SAM: 2.676588
+[Epoch 116] TrainUALNet: 0 | Train_UALNet_Loss: 0.000705 | Train_D_Loss: 0.098128 | Real_Prob: 0.953149 | Fake_Prob: 0.042986
+[Epoch 117] TrainUALNet: 0 | Train_UALNet_Loss: 0.000715 | Train_D_Loss: 0.100964 | Real_Prob: 0.943793 | Fake_Prob: 0.034804
+[Epoch 118] TrainUALNet: 0 | Train_UALNet_Loss: 0.000720 | Train_D_Loss: 0.127947 | Real_Prob: 0.937907 | Fake_Prob: 0.051226
+[Epoch 119] TrainUALNet: 0 | Train_UALNet_Loss: 0.000713 | Train_D_Loss: 0.120217 | Real_Prob: 0.936960 | Fake_Prob: 0.042715
+[Epoch 120] TrainUALNet: 1 | Train_UALNet_Loss: 0.000748 | Train_D_Loss: 0.191055 | Real_Prob: 0.945248 | Fake_Prob: 0.114892
+[Epoch 120] UALNet Test | PSNR: 30.536016 | SAM: 2.782105
+[Epoch 121] TrainUALNet: 1 | Train_UALNet_Loss: 0.000769 | Train_D_Loss: 0.189841 | Real_Prob: 0.934141 | Fake_Prob: 0.098604
+[Epoch 122] TrainUALNet: 1 | Train_UALNet_Loss: 0.000744 | Train_D_Loss: 0.185991 | Real_Prob: 0.938903 | Fake_Prob: 0.102848
+[Epoch 123] TrainUALNet: 1 | Train_UALNet_Loss: 0.000770 | Train_D_Loss: 0.236240 | Real_Prob: 0.928798 | Fake_Prob: 0.132477
+[Epoch 124] TrainUALNet: 1 | Train_UALNet_Loss: 0.000783 | Train_D_Loss: 0.165536 | Real_Prob: 0.943804 | Fake_Prob: 0.090072
+[Epoch 125] TrainUALNet: 0 | Train_UALNet_Loss: 0.000742 | Train_D_Loss: 0.100281 | Real_Prob: 0.950814 | Fake_Prob: 0.040506
+[Epoch 125] UALNet Test | PSNR: 30.683365 | SAM: 2.649298
+[Epoch 126] TrainUALNet: 0 | Train_UALNet_Loss: 0.000749 | Train_D_Loss: 0.103163 | Real_Prob: 0.943778 | Fake_Prob: 0.036203
+[Epoch 127] TrainUALNet: 0 | Train_UALNet_Loss: 0.000722 | Train_D_Loss: 0.128882 | Real_Prob: 0.941011 | Fake_Prob: 0.048864
+[Epoch 128] TrainUALNet: 0 | Train_UALNet_Loss: 0.000745 | Train_D_Loss: 0.088078 | Real_Prob: 0.954903 | Fake_Prob: 0.035049
+[Epoch 129] TrainUALNet: 0 | Train_UALNet_Loss: 0.000734 | Train_D_Loss: 0.133802 | Real_Prob: 0.938079 | Fake_Prob: 0.057559
+[Epoch 130] TrainUALNet: 1 | Train_UALNet_Loss: 0.000765 | Train_D_Loss: 0.184783 | Real_Prob: 0.909001 | Fake_Prob: 0.070104
+[Epoch 130] UALNet Test | PSNR: 30.652288 | SAM: 2.657067
+[Epoch 131] TrainUALNet: 1 | Train_UALNet_Loss: 0.000764 | Train_D_Loss: 0.192003 | Real_Prob: 0.919460 | Fake_Prob: 0.088166
+[Epoch 132] TrainUALNet: 1 | Train_UALNet_Loss: 0.000742 | Train_D_Loss: 0.182374 | Real_Prob: 0.927703 | Fake_Prob: 0.087491
+[Epoch 133] TrainUALNet: 1 | Train_UALNet_Loss: 0.000755 | Train_D_Loss: 0.175295 | Real_Prob: 0.927802 | Fake_Prob: 0.081880
+[Epoch 134] TrainUALNet: 1 | Train_UALNet_Loss: 0.000756 | Train_D_Loss: 0.204058 | Real_Prob: 0.930746 | Fake_Prob: 0.110244
+[Epoch 135] TrainUALNet: 0 | Train_UALNet_Loss: 0.000868 | Train_D_Loss: 0.136715 | Real_Prob: 0.936839 | Fake_Prob: 0.057143
+[Epoch 135] UALNet Test | PSNR: 30.385113 | SAM: 3.013901
+[Epoch 136] TrainUALNet: 0 | Train_UALNet_Loss: 0.000887 | Train_D_Loss: 0.075389 | Real_Prob: 0.964110 | Fake_Prob: 0.032804
+[Epoch 137] TrainUALNet: 0 | Train_UALNet_Loss: 0.000878 | Train_D_Loss: 0.108464 | Real_Prob: 0.941970 | Fake_Prob: 0.035445
+[Epoch 138] TrainUALNet: 0 | Train_UALNet_Loss: 0.000866 | Train_D_Loss: 0.076113 | Real_Prob: 0.957924 | Fake_Prob: 0.027775
+[Epoch 139] TrainUALNet: 0 | Train_UALNet_Loss: 0.000877 | Train_D_Loss: 0.052448 | Real_Prob: 0.975050 | Fake_Prob: 0.023371
+[Epoch 140] TrainUALNet: 1 | Train_UALNet_Loss: 0.000740 | Train_D_Loss: 0.124115 | Real_Prob: 0.917566 | Fake_Prob: 0.024155
+[Epoch 140] UALNet Test | PSNR: 30.653797 | SAM: 2.619621
+[Epoch 141] TrainUALNet: 1 | Train_UALNet_Loss: 0.000744 | Train_D_Loss: 0.118110 | Real_Prob: 0.919831 | Fake_Prob: 0.022919
+[Epoch 142] TrainUALNet: 1 | Train_UALNet_Loss: 0.000770 | Train_D_Loss: 0.135839 | Real_Prob: 0.918829 | Fake_Prob: 0.036522
+[Epoch 143] TrainUALNet: 1 | Train_UALNet_Loss: 0.000731 | Train_D_Loss: 0.121702 | Real_Prob: 0.925002 | Fake_Prob: 0.032765
+[Epoch 144] TrainUALNet: 1 | Train_UALNet_Loss: 0.000767 | Train_D_Loss: 0.149636 | Real_Prob: 0.902745 | Fake_Prob: 0.035224
+[Epoch 145] TrainUALNet: 0 | Train_UALNet_Loss: 0.000783 | Train_D_Loss: 0.081220 | Real_Prob: 0.955318 | Fake_Prob: 0.029551
+[Epoch 145] UALNet Test | PSNR: 30.274670 | SAM: 2.798658
+[Epoch 146] TrainUALNet: 0 | Train_UALNet_Loss: 0.000733 | Train_D_Loss: 0.087710 | Real_Prob: 0.960121 | Fake_Prob: 0.040000
+[Epoch 147] TrainUALNet: 0 | Train_UALNet_Loss: 0.000752 | Train_D_Loss: 0.117120 | Real_Prob: 0.936838 | Fake_Prob: 0.040200
+[Epoch 148] TrainUALNet: 0 | Train_UALNet_Loss: 0.000763 | Train_D_Loss: 0.088533 | Real_Prob: 0.960424 | Fake_Prob: 0.040966
+[Epoch 149] TrainUALNet: 0 | Train_UALNet_Loss: 0.000748 | Train_D_Loss: 0.058574 | Real_Prob: 0.970361 | Fake_Prob: 0.024569
+[Epoch 150] TrainUALNet: 1 | Train_UALNet_Loss: 0.000758 | Train_D_Loss: 0.086920 | Real_Prob: 0.964844 | Fake_Prob: 0.043777
+[Epoch 150] UALNet Test | PSNR: 30.593937 | SAM: 2.761627
+[Epoch 151] TrainUALNet: 1 | Train_UALNet_Loss: 0.000767 | Train_D_Loss: 0.097849 | Real_Prob: 0.965632 | Fake_Prob: 0.054603
+[Epoch 152] TrainUALNet: 1 | Train_UALNet_Loss: 0.000760 | Train_D_Loss: 0.146140 | Real_Prob: 0.953692 | Fake_Prob: 0.079928
+[Epoch 153] TrainUALNet: 1 | Train_UALNet_Loss: 0.000714 | Train_D_Loss: 0.132911 | Real_Prob: 0.958228 | Fake_Prob: 0.074094
+[Epoch 154] TrainUALNet: 1 | Train_UALNet_Loss: 0.000724 | Train_D_Loss: 0.148500 | Real_Prob: 0.955947 | Fake_Prob: 0.086033
+[Epoch 155] TrainUALNet: 0 | Train_UALNet_Loss: 0.000706 | Train_D_Loss: 0.097979 | Real_Prob: 0.948131 | Fake_Prob: 0.032036
+[Epoch 155] UALNet Test | PSNR: 30.619965 | SAM: 2.639466
+[Epoch 156] TrainUALNet: 0 | Train_UALNet_Loss: 0.000709 | Train_D_Loss: 0.073374 | Real_Prob: 0.965913 | Fake_Prob: 0.033205
+[Epoch 157] TrainUALNet: 0 | Train_UALNet_Loss: 0.000705 | Train_D_Loss: 0.058476 | Real_Prob: 0.971192 | Fake_Prob: 0.024801
+[Epoch 158] TrainUALNet: 0 | Train_UALNet_Loss: 0.000716 | Train_D_Loss: 0.070249 | Real_Prob: 0.965328 | Fake_Prob: 0.027827
+[Epoch 159] TrainUALNet: 0 | Train_UALNet_Loss: 0.000715 | Train_D_Loss: 0.063538 | Real_Prob: 0.967958 | Fake_Prob: 0.025841
+[Epoch 160] TrainUALNet: 1 | Train_UALNet_Loss: 0.000721 | Train_D_Loss: 0.234038 | Real_Prob: 0.830611 | Fake_Prob: 0.022652
+[Epoch 160] UALNet Test | PSNR: 30.782711 | SAM: 2.633248
+[Best UALNet Updated] Epoch: 160 | PSNR: 30.782711 | SAM: 2.633248
+[Epoch 161] TrainUALNet: 1 | Train_UALNet_Loss: 0.000744 | Train_D_Loss: 0.207422 | Real_Prob: 0.850279 | Fake_Prob: 0.025350
+[Epoch 162] TrainUALNet: 1 | Train_UALNet_Loss: 0.000710 | Train_D_Loss: 0.206140 | Real_Prob: 0.857564 | Fake_Prob: 0.026311
+[Epoch 163] TrainUALNet: 1 | Train_UALNet_Loss: 0.000690 | Train_D_Loss: 0.185534 | Real_Prob: 0.869252 | Fake_Prob: 0.025029
+[Epoch 164] TrainUALNet: 1 | Train_UALNet_Loss: 0.000741 | Train_D_Loss: 0.216436 | Real_Prob: 0.842227 | Fake_Prob: 0.018605
+[Epoch 165] TrainUALNet: 0 | Train_UALNet_Loss: 0.000725 | Train_D_Loss: 0.087260 | Real_Prob: 0.959951 | Fake_Prob: 0.036023
+[Epoch 165] UALNet Test | PSNR: 30.630117 | SAM: 2.653718
+[Epoch 166] TrainUALNet: 0 | Train_UALNet_Loss: 0.000721 | Train_D_Loss: 0.077789 | Real_Prob: 0.958532 | Fake_Prob: 0.029230
+[Epoch 167] TrainUALNet: 0 | Train_UALNet_Loss: 0.000734 | Train_D_Loss: 0.065822 | Real_Prob: 0.969471 | Fake_Prob: 0.029208
+[Epoch 168] TrainUALNet: 0 | Train_UALNet_Loss: 0.000727 | Train_D_Loss: 0.059300 | Real_Prob: 0.968510 | Fake_Prob: 0.022243
+[Epoch 169] TrainUALNet: 0 | Train_UALNet_Loss: 0.000723 | Train_D_Loss: 0.029901 | Real_Prob: 0.984276 | Fake_Prob: 0.012399
+[Epoch 170] TrainUALNet: 1 | Train_UALNet_Loss: 0.000724 | Train_D_Loss: 0.106170 | Real_Prob: 0.920787 | Fake_Prob: 0.010805
+[Epoch 170] UALNet Test | PSNR: 30.747202 | SAM: 2.542157
+[Epoch 171] TrainUALNet: 1 | Train_UALNet_Loss: 0.000690 | Train_D_Loss: 0.093588 | Real_Prob: 0.929414 | Fake_Prob: 0.009753
+[Epoch 172] TrainUALNet: 1 | Train_UALNet_Loss: 0.000688 | Train_D_Loss: 0.103632 | Real_Prob: 0.923355 | Fake_Prob: 0.012524
+[Epoch 173] TrainUALNet: 1 | Train_UALNet_Loss: 0.000722 | Train_D_Loss: 0.101103 | Real_Prob: 0.921491 | Fake_Prob: 0.005259
+[Epoch 174] TrainUALNet: 1 | Train_UALNet_Loss: 0.000748 | Train_D_Loss: 0.109953 | Real_Prob: 0.929176 | Fake_Prob: 0.024198
+[Epoch 175] TrainUALNet: 0 | Train_UALNet_Loss: 0.000787 | Train_D_Loss: 0.041370 | Real_Prob: 0.980612 | Fake_Prob: 0.018269
+[Epoch 175] UALNet Test | PSNR: 30.707485 | SAM: 2.662607
+[Epoch 176] TrainUALNet: 0 | Train_UALNet_Loss: 0.000755 | Train_D_Loss: 0.025680 | Real_Prob: 0.986870 | Fake_Prob: 0.010664
+[Epoch 177] TrainUALNet: 0 | Train_UALNet_Loss: 0.000748 | Train_D_Loss: 0.049729 | Real_Prob: 0.978541 | Fake_Prob: 0.023565
+[Epoch 178] TrainUALNet: 0 | Train_UALNet_Loss: 0.000736 | Train_D_Loss: 0.036959 | Real_Prob: 0.980129 | Fake_Prob: 0.014246
+[Epoch 179] TrainUALNet: 0 | Train_UALNet_Loss: 0.000733 | Train_D_Loss: 0.019929 | Real_Prob: 0.988085 | Fake_Prob: 0.007183
+[Epoch 180] TrainUALNet: 1 | Train_UALNet_Loss: 0.000732 | Train_D_Loss: 0.059703 | Real_Prob: 0.981787 | Fake_Prob: 0.036952
+[Epoch 180] UALNet Test | PSNR: 30.655304 | SAM: 2.685752
+[Epoch 181] TrainUALNet: 1 | Train_UALNet_Loss: 0.000689 | Train_D_Loss: 0.065117 | Real_Prob: 0.985003 | Fake_Prob: 0.043269
+[Epoch 182] TrainUALNet: 1 | Train_UALNet_Loss: 0.000708 | Train_D_Loss: 0.050947 | Real_Prob: 0.984927 | Fake_Prob: 0.032038
+[Epoch 183] TrainUALNet: 1 | Train_UALNet_Loss: 0.000705 | Train_D_Loss: 0.076656 | Real_Prob: 0.974508 | Fake_Prob: 0.043690
+[Epoch 184] TrainUALNet: 1 | Train_UALNet_Loss: 0.000714 | Train_D_Loss: 0.082519 | Real_Prob: 0.968379 | Fake_Prob: 0.041717
+[Epoch 185] TrainUALNet: 0 | Train_UALNet_Loss: 0.000682 | Train_D_Loss: 0.067697 | Real_Prob: 0.959859 | Fake_Prob: 0.016113
+[Epoch 185] UALNet Test | PSNR: 30.978611 | SAM: 2.491133
+[Best UALNet Updated] Epoch: 185 | PSNR: 30.978611 | SAM: 2.491133
+[Epoch 186] TrainUALNet: 0 | Train_UALNet_Loss: 0.000716 | Train_D_Loss: 0.074486 | Real_Prob: 0.972373 | Fake_Prob: 0.037975
+[Epoch 187] TrainUALNet: 0 | Train_UALNet_Loss: 0.000713 | Train_D_Loss: 0.046113 | Real_Prob: 0.981839 | Fake_Prob: 0.024301
+[Epoch 188] TrainUALNet: 0 | Train_UALNet_Loss: 0.000704 | Train_D_Loss: 0.029277 | Real_Prob: 0.982801 | Fake_Prob: 0.009785
+[Epoch 189] TrainUALNet: 0 | Train_UALNet_Loss: 0.000707 | Train_D_Loss: 0.044034 | Real_Prob: 0.980636 | Fake_Prob: 0.020924
+[Epoch 190] TrainUALNet: 1 | Train_UALNet_Loss: 0.000678 | Train_D_Loss: 0.037940 | Real_Prob: 0.981355 | Fake_Prob: 0.017184
+[Epoch 190] UALNet Test | PSNR: 30.624155 | SAM: 2.629183
+[Epoch 191] TrainUALNet: 1 | Train_UALNet_Loss: 0.000695 | Train_D_Loss: 0.036538 | Real_Prob: 0.983230 | Fake_Prob: 0.017665
+[Epoch 192] TrainUALNet: 1 | Train_UALNet_Loss: 0.000687 | Train_D_Loss: 0.058860 | Real_Prob: 0.976585 | Fake_Prob: 0.029995
+[Epoch 193] TrainUALNet: 1 | Train_UALNet_Loss: 0.000666 | Train_D_Loss: 0.054857 | Real_Prob: 0.969092 | Fake_Prob: 0.019121
+[Epoch 194] TrainUALNet: 1 | Train_UALNet_Loss: 0.000696 | Train_D_Loss: 0.051933 | Real_Prob: 0.977436 | Fake_Prob: 0.024509
+[Epoch 195] TrainUALNet: 0 | Train_UALNet_Loss: 0.000695 | Train_D_Loss: 0.024725 | Real_Prob: 0.985591 | Fake_Prob: 0.008329
+[Epoch 195] UALNet Test | PSNR: 30.908651 | SAM: 2.581384
+[Epoch 196] TrainUALNet: 0 | Train_UALNet_Loss: 0.000724 | Train_D_Loss: 0.037224 | Real_Prob: 0.982613 | Fake_Prob: 0.016375
+[Epoch 197] TrainUALNet: 0 | Train_UALNet_Loss: 0.000679 | Train_D_Loss: 0.042171 | Real_Prob: 0.974527 | Fake_Prob: 0.011974
+[Epoch 198] TrainUALNet: 0 | Train_UALNet_Loss: 0.000695 | Train_D_Loss: 0.104779 | Real_Prob: 0.960442 | Fake_Prob: 0.048718
+[Epoch 199] TrainUALNet: 0 | Train_UALNet_Loss: 0.000687 | Train_D_Loss: 0.048856 | Real_Prob: 0.980453 | Fake_Prob: 0.025635
+[Epoch 200] TrainUALNet: 1 | Train_UALNet_Loss: 0.000710 | Train_D_Loss: 0.007201 | Real_Prob: 0.996030 | Fake_Prob: 0.003099
+[Epoch 200] UALNet Test | PSNR: 31.515888 | SAM: 2.405225
+[Best UALNet Updated] Epoch: 200 | PSNR: 31.515888 | SAM: 2.405225
+[Epoch 201] TrainUALNet: 1 | Train_UALNet_Loss: 0.000679 | Train_D_Loss: 0.007729 | Real_Prob: 0.996030 | Fake_Prob: 0.003609
+[Epoch 202] TrainUALNet: 1 | Train_UALNet_Loss: 0.000671 | Train_D_Loss: 0.007676 | Real_Prob: 0.996026 | Fake_Prob: 0.003548
+[Epoch 203] TrainUALNet: 1 | Train_UALNet_Loss: 0.000683 | Train_D_Loss: 0.007495 | Real_Prob: 0.996030 | Fake_Prob: 0.003389
+[Epoch 204] TrainUALNet: 1 | Train_UALNet_Loss: 0.000677 | Train_D_Loss: 0.008603 | Real_Prob: 0.996028 | Fake_Prob: 0.004417
+[Epoch 201] TrainUALNet: 1 | Train_UALNet_Loss: 0.000778 | Train_D_Loss: 0.007737 | Real_Prob: 0.996030 | Fake_Prob: 0.003475
+[Epoch 202] TrainUALNet: 1 | Train_UALNet_Loss: 0.000734 | Train_D_Loss: 0.006990 | Real_Prob: 0.996030 | Fake_Prob: 0.002834
+[Epoch 203] TrainUALNet: 1 | Train_UALNet_Loss: 0.000736 | Train_D_Loss: 0.008994 | Real_Prob: 0.996028 | Fake_Prob: 0.004568
+[Epoch 204] TrainUALNet: 1 | Train_UALNet_Loss: 0.000773 | Train_D_Loss: 0.007821 | Real_Prob: 0.996030 | Fake_Prob: 0.003619
+[Epoch 205] TrainUALNet: 0 | Train_UALNet_Loss: 0.000961 | Train_D_Loss: 0.002804 | Real_Prob: 0.997982 | Fake_Prob: 0.000464
+[Epoch 205] UALNet Test | PSNR: 30.458233 | SAM: 3.034290
+[Best UALNet Updated] Epoch: 205 | PSNR: 30.458233 | SAM: 3.034290
+[Epoch 206] TrainUALNet: 0 | Train_UALNet_Loss: 0.000960 | Train_D_Loss: 0.001432 | Real_Prob: 0.999630 | Fake_Prob: 0.001050
+[Epoch 207] TrainUALNet: 0 | Train_UALNet_Loss: 0.000960 | Train_D_Loss: 0.002000 | Real_Prob: 0.998850 | Fake_Prob: 0.000801
+[Epoch 208] TrainUALNet: 0 | Train_UALNet_Loss: 0.000960 | Train_D_Loss: 0.000378 | Real_Prob: 0.999823 | Fake_Prob: 0.000200
+[Epoch 209] TrainUALNet: 0 | Train_UALNet_Loss: 0.000964 | Train_D_Loss: 0.000476 | Real_Prob: 0.999820 | Fake_Prob: 0.000293
+[Epoch 210] TrainUALNet: 1 | Train_UALNet_Loss: 0.000741 | Train_D_Loss: 0.014795 | Real_Prob: 0.992004 | Fake_Prob: 0.005340
+[Epoch 210] UALNet Test | PSNR: 31.392202 | SAM: 2.531686
+[Best UALNet Updated] Epoch: 210 | PSNR: 31.392202 | SAM: 2.531686
+[Epoch 211] TrainUALNet: 1 | Train_UALNet_Loss: 0.000849 | Train_D_Loss: 0.013711 | Real_Prob: 0.992004 | Fake_Prob: 0.004468
+[Epoch 212] TrainUALNet: 1 | Train_UALNet_Loss: 0.000755 | Train_D_Loss: 0.013058 | Real_Prob: 0.992003 | Fake_Prob: 0.003883
+[Epoch 213] TrainUALNet: 1 | Train_UALNet_Loss: 0.000718 | Train_D_Loss: 0.015257 | Real_Prob: 0.992004 | Fake_Prob: 0.005845
+[Epoch 214] TrainUALNet: 1 | Train_UALNet_Loss: 0.000729 | Train_D_Loss: 0.012364 | Real_Prob: 0.992004 | Fake_Prob: 0.003208
+[Epoch 215] TrainUALNet: 0 | Train_UALNet_Loss: 0.000702 | Train_D_Loss: 0.001368 | Real_Prob: 0.999439 | Fake_Prob: 0.000786
+[Epoch 215] UALNet Test | PSNR: 31.456173 | SAM: 2.525753
+[Best UALNet Updated] Epoch: 215 | PSNR: 31.456173 | SAM: 2.525753
+[Epoch 216] TrainUALNet: 0 | Train_UALNet_Loss: 0.000703 | Train_D_Loss: 0.002320 | Real_Prob: 0.999120 | Fake_Prob: 0.001360
+[Epoch 217] TrainUALNet: 0 | Train_UALNet_Loss: 0.000702 | Train_D_Loss: 0.000439 | Real_Prob: 0.999749 | Fake_Prob: 0.000188
+[Epoch 218] TrainUALNet: 0 | Train_UALNet_Loss: 0.000702 | Train_D_Loss: 0.000348 | Real_Prob: 0.999799 | Fake_Prob: 0.000146
+[Epoch 219] TrainUALNet: 0 | Train_UALNet_Loss: 0.000704 | Train_D_Loss: 0.000247 | Real_Prob: 0.999869 | Fake_Prob: 0.000116
+[Epoch 220] TrainUALNet: 1 | Train_UALNet_Loss: 0.000730 | Train_D_Loss: 0.002639 | Real_Prob: 0.999627 | Fake_Prob: 0.002232
+[Epoch 220] UALNet Test | PSNR: 31.556498 | SAM: 2.451830
+[Best UALNet Updated] Epoch: 220 | PSNR: 31.556498 | SAM: 2.451830
+[Epoch 221] TrainUALNet: 1 | Train_UALNet_Loss: 0.000730 | Train_D_Loss: 0.002193 | Real_Prob: 0.999627 | Fake_Prob: 0.001808
+[Epoch 222] TrainUALNet: 1 | Train_UALNet_Loss: 0.000718 | Train_D_Loss: 0.002970 | Real_Prob: 0.999627 | Fake_Prob: 0.002526
+[Epoch 223] TrainUALNet: 1 | Train_UALNet_Loss: 0.000743 | Train_D_Loss: 0.002311 | Real_Prob: 0.999627 | Fake_Prob: 0.001925
+[Epoch 224] TrainUALNet: 1 | Train_UALNet_Loss: 0.000707 | Train_D_Loss: 0.003241 | Real_Prob: 0.999627 | Fake_Prob: 0.002767
+[Epoch 225] TrainUALNet: 0 | Train_UALNet_Loss: 0.000673 | Train_D_Loss: 0.000410 | Real_Prob: 0.999811 | Fake_Prob: 0.000220
+[Epoch 225] UALNet Test | PSNR: 31.569647 | SAM: 2.491804
+[Best UALNet Updated] Epoch: 225 | PSNR: 31.569647 | SAM: 2.491804
+[Epoch 226] TrainUALNet: 0 | Train_UALNet_Loss: 0.000674 | Train_D_Loss: 0.000344 | Real_Prob: 0.999829 | Fake_Prob: 0.000173
+[Epoch 227] TrainUALNet: 0 | Train_UALNet_Loss: 0.000672 | Train_D_Loss: 0.000752 | Real_Prob: 0.999650 | Fake_Prob: 0.000398
+[Epoch 228] TrainUALNet: 0 | Train_UALNet_Loss: 0.000672 | Train_D_Loss: 0.000288 | Real_Prob: 0.999896 | Fake_Prob: 0.000184
+[Epoch 229] TrainUALNet: 0 | Train_UALNet_Loss: 0.000673 | Train_D_Loss: 0.000301 | Real_Prob: 0.999870 | Fake_Prob: 0.000170
+[Epoch 230] TrainUALNet: 1 | Train_UALNet_Loss: 0.000709 | Train_D_Loss: 0.004666 | Real_Prob: 0.999324 | Fake_Prob: 0.003557
+[Epoch 230] UALNet Test | PSNR: 31.695185 | SAM: 2.428731
+[Best UALNet Updated] Epoch: 230 | PSNR: 31.695185 | SAM: 2.428731
+[Epoch 231] TrainUALNet: 1 | Train_UALNet_Loss: 0.000697 | Train_D_Loss: 0.003126 | Real_Prob: 0.999324 | Fake_Prob: 0.002326
+[Epoch 232] TrainUALNet: 1 | Train_UALNet_Loss: 0.000781 | Train_D_Loss: 0.002419 | Real_Prob: 0.999324 | Fake_Prob: 0.001675
+[Epoch 233] TrainUALNet: 1 | Train_UALNet_Loss: 0.000723 | Train_D_Loss: 0.003298 | Real_Prob: 0.999324 | Fake_Prob: 0.002414
+[Epoch 234] TrainUALNet: 1 | Train_UALNet_Loss: 0.000676 | Train_D_Loss: 0.002455 | Real_Prob: 0.999324 | Fake_Prob: 0.001732
+[Epoch 235] TrainUALNet: 0 | Train_UALNet_Loss: 0.000662 | Train_D_Loss: 0.000188 | Real_Prob: 0.999884 | Fake_Prob: 0.000072
+[Epoch 235] UALNet Test | PSNR: 31.643982 | SAM: 2.439909
+[Epoch 236] TrainUALNet: 0 | Train_UALNet_Loss: 0.000660 | Train_D_Loss: 0.006495 | Real_Prob: 0.996003 | Fake_Prob: 0.001711
+[Epoch 237] TrainUALNet: 0 | Train_UALNet_Loss: 0.000664 | Train_D_Loss: 0.009889 | Real_Prob: 0.995156 | Fake_Prob: 0.003102
+[Epoch 238] TrainUALNet: 0 | Train_UALNet_Loss: 0.000662 | Train_D_Loss: 0.000957 | Real_Prob: 0.999832 | Fake_Prob: 0.000784
+[Epoch 239] TrainUALNet: 0 | Train_UALNet_Loss: 0.000664 | Train_D_Loss: 0.000511 | Real_Prob: 0.999881 | Fake_Prob: 0.000389
+[Epoch 240] TrainUALNet: 1 | Train_UALNet_Loss: 0.000690 | Train_D_Loss: 0.036088 | Real_Prob: 0.971971 | Fake_Prob: 0.000669
+[Epoch 240] UALNet Test | PSNR: 31.231152 | SAM: 2.423996
+[Epoch 241] TrainUALNet: 1 | Train_UALNet_Loss: 0.000700 | Train_D_Loss: 0.035895 | Real_Prob: 0.971971 | Fake_Prob: 0.000503
+[Epoch 242] TrainUALNet: 1 | Train_UALNet_Loss: 0.000673 | Train_D_Loss: 0.036147 | Real_Prob: 0.971971 | Fake_Prob: 0.000598
+[Epoch 243] TrainUALNet: 1 | Train_UALNet_Loss: 0.000692 | Train_D_Loss: 0.036101 | Real_Prob: 0.971971 | Fake_Prob: 0.000707
+[Epoch 244] TrainUALNet: 1 | Train_UALNet_Loss: 0.000692 | Train_D_Loss: 0.038931 | Real_Prob: 0.970385 | Fake_Prob: 0.000636
+[Epoch 245] TrainUALNet: 0 | Train_UALNet_Loss: 0.000789 | Train_D_Loss: 0.000577 | Real_Prob: 0.999796 | Fake_Prob: 0.000370
+[Epoch 245] UALNet Test | PSNR: 31.278879 | SAM: 2.478954
+[Epoch 246] TrainUALNet: 0 | Train_UALNet_Loss: 0.000789 | Train_D_Loss: 0.000645 | Real_Prob: 0.999669 | Fake_Prob: 0.000309
+[Epoch 247] TrainUALNet: 0 | Train_UALNet_Loss: 0.000789 | Train_D_Loss: 0.000806 | Real_Prob: 0.999878 | Fake_Prob: 0.000675
+[Epoch 248] TrainUALNet: 0 | Train_UALNet_Loss: 0.000790 | Train_D_Loss: 0.000270 | Real_Prob: 0.999836 | Fake_Prob: 0.000105
+[Epoch 249] TrainUALNet: 0 | Train_UALNet_Loss: 0.000792 | Train_D_Loss: 0.000307 | Real_Prob: 0.999924 | Fake_Prob: 0.000230
+[Epoch 250] TrainUALNet: 1 | Train_UALNet_Loss: 0.000685 | Train_D_Loss: 0.003092 | Real_Prob: 0.997877 | Fake_Prob: 0.000803
+[Epoch 250] UALNet Test | PSNR: 31.892023 | SAM: 2.302574
+[Best UALNet Updated] Epoch: 250 | PSNR: 31.892023 | SAM: 2.302574
+[Epoch 251] TrainUALNet: 1 | Train_UALNet_Loss: 0.000623 | Train_D_Loss: 0.003088 | Real_Prob: 0.997971 | Fake_Prob: 0.000894
+[Epoch 252] TrainUALNet: 1 | Train_UALNet_Loss: 0.000612 | Train_D_Loss: 0.003158 | Real_Prob: 0.997959 | Fake_Prob: 0.000951
+[Epoch 253] TrainUALNet: 1 | Train_UALNet_Loss: 0.000613 | Train_D_Loss: 0.003141 | Real_Prob: 0.997971 | Fake_Prob: 0.000947
+[Epoch 254] TrainUALNet: 1 | Train_UALNet_Loss: 0.000611 | Train_D_Loss: 0.003170 | Real_Prob: 0.997971 | Fake_Prob: 0.000975
+[Epoch 255] TrainUALNet: 1 | Train_UALNet_Loss: 0.000607 | Train_D_Loss: 0.003243 | Real_Prob: 0.997971 | Fake_Prob: 0.001047
+[Epoch 255] UALNet Test | PSNR: 31.985529 | SAM: 2.263539
+[Best UALNet Updated] Epoch: 255 | PSNR: 31.985529 | SAM: 2.263539
+[Epoch 256] TrainUALNet: 1 | Train_UALNet_Loss: 0.000607 | Train_D_Loss: 0.003237 | Real_Prob: 0.997971 | Fake_Prob: 0.001041
+[Epoch 257] TrainUALNet: 1 | Train_UALNet_Loss: 0.000602 | Train_D_Loss: 0.003244 | Real_Prob: 0.997971 | Fake_Prob: 0.001048
+[Epoch 258] TrainUALNet: 1 | Train_UALNet_Loss: 0.000602 | Train_D_Loss: 0.003267 | Real_Prob: 0.997971 | Fake_Prob: 0.001072
+[Epoch 259] TrainUALNet: 1 | Train_UALNet_Loss: 0.000603 | Train_D_Loss: 0.003352 | Real_Prob: 0.997970 | Fake_Prob: 0.001154
+[Epoch 260] TrainUALNet: 1 | Train_UALNet_Loss: 0.000597 | Train_D_Loss: 0.003347 | Real_Prob: 0.997970 | Fake_Prob: 0.001149
+[Epoch 260] UALNet Test | PSNR: 31.992039 | SAM: 2.263015
+[Best UALNet Updated] Epoch: 260 | PSNR: 31.992039 | SAM: 2.263015
+[Epoch 261] TrainUALNet: 1 | Train_UALNet_Loss: 0.000598 | Train_D_Loss: 0.003419 | Real_Prob: 0.997970 | Fake_Prob: 0.001219
+[Epoch 262] TrainUALNet: 1 | Train_UALNet_Loss: 0.000601 | Train_D_Loss: 0.003309 | Real_Prob: 0.997971 | Fake_Prob: 0.001099
+[Epoch 263] TrainUALNet: 1 | Train_UALNet_Loss: 0.000601 | Train_D_Loss: 0.003241 | Real_Prob: 0.997971 | Fake_Prob: 0.001046
+[Epoch 264] TrainUALNet: 1 | Train_UALNet_Loss: 0.000595 | Train_D_Loss: 0.003323 | Real_Prob: 0.997971 | Fake_Prob: 0.001127
+[Epoch 265] TrainUALNet: 1 | Train_UALNet_Loss: 0.000595 | Train_D_Loss: 0.003327 | Real_Prob: 0.997970 | Fake_Prob: 0.001131
+[Epoch 265] UALNet Test | PSNR: 32.008385 | SAM: 2.242393
+[Best UALNet Updated] Epoch: 265 | PSNR: 32.008385 | SAM: 2.242393
+[Epoch 266] TrainUALNet: 1 | Train_UALNet_Loss: 0.000598 | Train_D_Loss: 0.003318 | Real_Prob: 0.997971 | Fake_Prob: 0.001123
+[Epoch 267] TrainUALNet: 1 | Train_UALNet_Loss: 0.000599 | Train_D_Loss: 0.003263 | Real_Prob: 0.997970 | Fake_Prob: 0.001066
+[Epoch 268] TrainUALNet: 1 | Train_UALNet_Loss: 0.000595 | Train_D_Loss: 0.003403 | Real_Prob: 0.997971 | Fake_Prob: 0.001206
+[Epoch 269] TrainUALNet: 1 | Train_UALNet_Loss: 0.000594 | Train_D_Loss: 0.003390 | Real_Prob: 0.997971 | Fake_Prob: 0.001193
+[Epoch 270] TrainUALNet: 1 | Train_UALNet_Loss: 0.000589 | Train_D_Loss: 0.003436 | Real_Prob: 0.997971 | Fake_Prob: 0.001237
+[Epoch 270] UALNet Test | PSNR: 32.048801 | SAM: 2.229353
+[Best UALNet Updated] Epoch: 270 | PSNR: 32.048801 | SAM: 2.229353
+[Epoch 271] TrainUALNet: 1 | Train_UALNet_Loss: 0.000594 | Train_D_Loss: 0.003496 | Real_Prob: 0.997970 | Fake_Prob: 0.001296
+[Epoch 272] TrainUALNet: 1 | Train_UALNet_Loss: 0.000588 | Train_D_Loss: 0.003403 | Real_Prob: 0.997970 | Fake_Prob: 0.001207
+[Epoch 273] TrainUALNet: 1 | Train_UALNet_Loss: 0.000586 | Train_D_Loss: 0.003427 | Real_Prob: 0.997970 | Fake_Prob: 0.001230
+[Epoch 274] TrainUALNet: 1 | Train_UALNet_Loss: 0.000586 | Train_D_Loss: 0.003437 | Real_Prob: 0.997970 | Fake_Prob: 0.001240
+[Epoch 275] TrainUALNet: 1 | Train_UALNet_Loss: 0.000585 | Train_D_Loss: 0.003503 | Real_Prob: 0.997970 | Fake_Prob: 0.001306
+[Epoch 275] UALNet Test | PSNR: 32.059647 | SAM: 2.224573
+[Best UALNet Updated] Epoch: 275 | PSNR: 32.059647 | SAM: 2.224573
+[Epoch 276] TrainUALNet: 1 | Train_UALNet_Loss: 0.000584 | Train_D_Loss: 0.003394 | Real_Prob: 0.997970 | Fake_Prob: 0.001198
+[Epoch 277] TrainUALNet: 1 | Train_UALNet_Loss: 0.000585 | Train_D_Loss: 0.003556 | Real_Prob: 0.997970 | Fake_Prob: 0.001356
+[Epoch 278] TrainUALNet: 1 | Train_UALNet_Loss: 0.000585 | Train_D_Loss: 0.003416 | Real_Prob: 0.997970 | Fake_Prob: 0.001220
+[Epoch 279] TrainUALNet: 1 | Train_UALNet_Loss: 0.000581 | Train_D_Loss: 0.003460 | Real_Prob: 0.997970 | Fake_Prob: 0.001263
+[Epoch 280] TrainUALNet: 1 | Train_UALNet_Loss: 0.000583 | Train_D_Loss: 0.003479 | Real_Prob: 0.997970 | Fake_Prob: 0.001282
+[Epoch 280] UALNet Test | PSNR: 32.059456 | SAM: 2.223311
+[Best UALNet Updated] Epoch: 280 | PSNR: 32.059456 | SAM: 2.223311
+[Epoch 281] TrainUALNet: 1 | Train_UALNet_Loss: 0.000585 | Train_D_Loss: 0.003530 | Real_Prob: 0.997970 | Fake_Prob: 0.001333
+[Epoch 282] TrainUALNet: 1 | Train_UALNet_Loss: 0.000580 | Train_D_Loss: 0.003393 | Real_Prob: 0.997971 | Fake_Prob: 0.001197
+[Epoch 283] TrainUALNet: 1 | Train_UALNet_Loss: 0.000577 | Train_D_Loss: 0.003497 | Real_Prob: 0.997970 | Fake_Prob: 0.001299
+[Epoch 284] TrainUALNet: 1 | Train_UALNet_Loss: 0.000581 | Train_D_Loss: 0.003633 | Real_Prob: 0.997971 | Fake_Prob: 0.001432
+[Epoch 285] TrainUALNet: 1 | Train_UALNet_Loss: 0.000577 | Train_D_Loss: 0.003629 | Real_Prob: 0.997971 | Fake_Prob: 0.001429
+[Epoch 285] UALNet Test | PSNR: 32.099388 | SAM: 2.200853
+[Best UALNet Updated] Epoch: 285 | PSNR: 32.099388 | SAM: 2.200853
+[Epoch 286] TrainUALNet: 1 | Train_UALNet_Loss: 0.000577 | Train_D_Loss: 0.003552 | Real_Prob: 0.997971 | Fake_Prob: 0.001354
+[Epoch 287] TrainUALNet: 1 | Train_UALNet_Loss: 0.000600 | Train_D_Loss: 0.003801 | Real_Prob: 0.997969 | Fake_Prob: 0.001582
+[Epoch 288] TrainUALNet: 1 | Train_UALNet_Loss: 0.000576 | Train_D_Loss: 0.003514 | Real_Prob: 0.997970 | Fake_Prob: 0.001316
+[Epoch 289] TrainUALNet: 1 | Train_UALNet_Loss: 0.000575 | Train_D_Loss: 0.003529 | Real_Prob: 0.997971 | Fake_Prob: 0.001331
+[Epoch 290] TrainUALNet: 1 | Train_UALNet_Loss: 0.000576 | Train_D_Loss: 0.003589 | Real_Prob: 0.997971 | Fake_Prob: 0.001391
+[Epoch 290] UALNet Test | PSNR: 32.117661 | SAM: 2.200259
+[Best UALNet Updated] Epoch: 290 | PSNR: 32.117661 | SAM: 2.200259
+[Epoch 291] TrainUALNet: 1 | Train_UALNet_Loss: 0.000575 | Train_D_Loss: 0.003693 | Real_Prob: 0.997971 | Fake_Prob: 0.001492
+[Epoch 292] TrainUALNet: 1 | Train_UALNet_Loss: 0.000581 | Train_D_Loss: 0.003673 | Real_Prob: 0.997971 | Fake_Prob: 0.001472
+[Epoch 293] TrainUALNet: 1 | Train_UALNet_Loss: 0.000571 | Train_D_Loss: 0.003732 | Real_Prob: 0.997970 | Fake_Prob: 0.001529
+[Epoch 294] TrainUALNet: 1 | Train_UALNet_Loss: 0.000572 | Train_D_Loss: 0.003578 | Real_Prob: 0.997969 | Fake_Prob: 0.001380
+[Epoch 295] TrainUALNet: 1 | Train_UALNet_Loss: 0.000580 | Train_D_Loss: 0.003539 | Real_Prob: 0.997971 | Fake_Prob: 0.001342
+[Epoch 295] UALNet Test | PSNR: 32.083454 | SAM: 2.221059
+[Epoch 296] TrainUALNet: 1 | Train_UALNet_Loss: 0.000572 | Train_D_Loss: 0.003570 | Real_Prob: 0.997971 | Fake_Prob: 0.001372
+[Epoch 297] TrainUALNet: 1 | Train_UALNet_Loss: 0.000573 | Train_D_Loss: 0.003810 | Real_Prob: 0.997971 | Fake_Prob: 0.001606
+[Epoch 298] TrainUALNet: 1 | Train_UALNet_Loss: 0.000570 | Train_D_Loss: 0.003782 | Real_Prob: 0.997877 | Fake_Prob: 0.001486
+[Epoch 299] TrainUALNet: 1 | Train_UALNet_Loss: 0.000570 | Train_D_Loss: 0.003621 | Real_Prob: 0.997970 | Fake_Prob: 0.001420
+[Epoch 300] TrainUALNet: 1 | Train_UALNet_Loss: 0.000568 | Train_D_Loss: 0.003727 | Real_Prob: 0.997969 | Fake_Prob: 0.001526
+[Epoch 300] UALNet Test | PSNR: 32.147976 | SAM: 2.195283
+[Best UALNet Updated] Epoch: 300 | PSNR: 32.147976 | SAM: 2.195283
+[Epoch 301] TrainUALNet: 1 | Train_UALNet_Loss: 0.000571 | Train_D_Loss: 0.003769 | Real_Prob: 0.997970 | Fake_Prob: 0.001565
+[Epoch 302] TrainUALNet: 1 | Train_UALNet_Loss: 0.000570 | Train_D_Loss: 0.003680 | Real_Prob: 0.997971 | Fake_Prob: 0.001482
+[Epoch 303] TrainUALNet: 1 | Train_UALNet_Loss: 0.000578 | Train_D_Loss: 0.003768 | Real_Prob: 0.997971 | Fake_Prob: 0.001566
+[Epoch 304] TrainUALNet: 1 | Train_UALNet_Loss: 0.000569 | Train_D_Loss: 0.003906 | Real_Prob: 0.997970 | Fake_Prob: 0.001699
+[Epoch 305] TrainUALNet: 1 | Train_UALNet_Loss: 0.000568 | Train_D_Loss: 0.003795 | Real_Prob: 0.997971 | Fake_Prob: 0.001594
+[Epoch 305] UALNet Test | PSNR: 32.086205 | SAM: 2.213474
+[Epoch 306] TrainUALNet: 1 | Train_UALNet_Loss: 0.000567 | Train_D_Loss: 0.003670 | Real_Prob: 0.997970 | Fake_Prob: 0.001472
+[Epoch 307] TrainUALNet: 1 | Train_UALNet_Loss: 0.000565 | Train_D_Loss: 0.003712 | Real_Prob: 0.997970 | Fake_Prob: 0.001514
+[Epoch 308] TrainUALNet: 1 | Train_UALNet_Loss: 0.000567 | Train_D_Loss: 0.003800 | Real_Prob: 0.997971 | Fake_Prob: 0.001598
+[Epoch 309] TrainUALNet: 1 | Train_UALNet_Loss: 0.000588 | Train_D_Loss: 0.003953 | Real_Prob: 0.997970 | Fake_Prob: 0.001750
+[Epoch 310] TrainUALNet: 1 | Train_UALNet_Loss: 0.000564 | Train_D_Loss: 0.003796 | Real_Prob: 0.997970 | Fake_Prob: 0.001595
+[Epoch 310] UALNet Test | PSNR: 32.170311 | SAM: 2.181695
+[Best UALNet Updated] Epoch: 310 | PSNR: 32.170311 | SAM: 2.181695
+[Epoch 311] TrainUALNet: 1 | Train_UALNet_Loss: 0.000563 | Train_D_Loss: 0.003906 | Real_Prob: 0.997971 | Fake_Prob: 0.001696
+[Epoch 312] TrainUALNet: 1 | Train_UALNet_Loss: 0.000563 | Train_D_Loss: 0.003814 | Real_Prob: 0.997970 | Fake_Prob: 0.001611
+[Epoch 313] TrainUALNet: 1 | Train_UALNet_Loss: 0.000561 | Train_D_Loss: 0.003856 | Real_Prob: 0.997969 | Fake_Prob: 0.001653
+[Epoch 314] TrainUALNet: 1 | Train_UALNet_Loss: 0.000561 | Train_D_Loss: 0.003883 | Real_Prob: 0.997969 | Fake_Prob: 0.001680
+[Epoch 315] TrainUALNet: 1 | Train_UALNet_Loss: 0.000565 | Train_D_Loss: 0.003913 | Real_Prob: 0.997971 | Fake_Prob: 0.001709
+[Epoch 315] UALNet Test | PSNR: 32.154671 | SAM: 2.178875
+[Epoch 316] TrainUALNet: 1 | Train_UALNet_Loss: 0.000559 | Train_D_Loss: 0.003871 | Real_Prob: 0.997971 | Fake_Prob: 0.001667
+[Epoch 317] TrainUALNet: 1 | Train_UALNet_Loss: 0.000561 | Train_D_Loss: 0.003851 | Real_Prob: 0.997969 | Fake_Prob: 0.001649
+[Epoch 318] TrainUALNet: 1 | Train_UALNet_Loss: 0.000560 | Train_D_Loss: 0.003930 | Real_Prob: 0.997971 | Fake_Prob: 0.001726
+[Epoch 319] TrainUALNet: 1 | Train_UALNet_Loss: 0.000564 | Train_D_Loss: 0.003995 | Real_Prob: 0.997970 | Fake_Prob: 0.001793
+[Epoch 320] TrainUALNet: 1 | Train_UALNet_Loss: 0.000558 | Train_D_Loss: 0.003954 | Real_Prob: 0.997969 | Fake_Prob: 0.001749
+[Epoch 320] UALNet Test | PSNR: 32.169731 | SAM: 2.190829
+[Epoch 321] TrainUALNet: 1 | Train_UALNet_Loss: 0.000560 | Train_D_Loss: 0.003988 | Real_Prob: 0.997970 | Fake_Prob: 0.001785
+[Epoch 322] TrainUALNet: 1 | Train_UALNet_Loss: 0.000560 | Train_D_Loss: 0.004094 | Real_Prob: 0.997971 | Fake_Prob: 0.001888
+[Epoch 323] TrainUALNet: 1 | Train_UALNet_Loss: 0.000556 | Train_D_Loss: 0.004021 | Real_Prob: 0.997971 | Fake_Prob: 0.001816
+[Epoch 324] TrainUALNet: 1 | Train_UALNet_Loss: 0.000604 | Train_D_Loss: 0.003633 | Real_Prob: 0.997971 | Fake_Prob: 0.001432
+[Epoch 325] TrainUALNet: 1 | Train_UALNet_Loss: 0.000567 | Train_D_Loss: 0.003947 | Real_Prob: 0.997970 | Fake_Prob: 0.001744
+[Epoch 325] UALNet Test | PSNR: 32.156715 | SAM: 2.187509
+[Epoch 326] TrainUALNet: 1 | Train_UALNet_Loss: 0.000560 | Train_D_Loss: 0.004038 | Real_Prob: 0.997971 | Fake_Prob: 0.001835
+[Epoch 327] TrainUALNet: 1 | Train_UALNet_Loss: 0.000561 | Train_D_Loss: 0.003953 | Real_Prob: 0.997970 | Fake_Prob: 0.001749
+[Epoch 328] TrainUALNet: 1 | Train_UALNet_Loss: 0.000560 | Train_D_Loss: 0.004021 | Real_Prob: 0.997971 | Fake_Prob: 0.001816
+[Epoch 329] TrainUALNet: 1 | Train_UALNet_Loss: 0.000555 | Train_D_Loss: 0.004124 | Real_Prob: 0.997971 | Fake_Prob: 0.001916
+[Epoch 330] TrainUALNet: 1 | Train_UALNet_Loss: 0.000557 | Train_D_Loss: 0.004150 | Real_Prob: 0.997970 | Fake_Prob: 0.001941
+[Epoch 330] UALNet Test | PSNR: 32.180145 | SAM: 2.163616
+[Best UALNet Updated] Epoch: 330 | PSNR: 32.180145 | SAM: 2.163616
+[Epoch 331] TrainUALNet: 1 | Train_UALNet_Loss: 0.000556 | Train_D_Loss: 0.004116 | Real_Prob: 0.997970 | Fake_Prob: 0.001904
+[Epoch 332] TrainUALNet: 1 | Train_UALNet_Loss: 0.000556 | Train_D_Loss: 0.004162 | Real_Prob: 0.997970 | Fake_Prob: 0.001955
+[Epoch 333] TrainUALNet: 1 | Train_UALNet_Loss: 0.000555 | Train_D_Loss: 0.004373 | Real_Prob: 0.997970 | Fake_Prob: 0.002161
+[Epoch 334] TrainUALNet: 1 | Train_UALNet_Loss: 0.000556 | Train_D_Loss: 0.004222 | Real_Prob: 0.997970 | Fake_Prob: 0.002017
+[Epoch 335] TrainUALNet: 1 | Train_UALNet_Loss: 0.000555 | Train_D_Loss: 0.004177 | Real_Prob: 0.997971 | Fake_Prob: 0.001971
+[Epoch 335] UALNet Test | PSNR: 32.179020 | SAM: 2.167335
+[Epoch 336] TrainUALNet: 1 | Train_UALNet_Loss: 0.000552 | Train_D_Loss: 0.004242 | Real_Prob: 0.997971 | Fake_Prob: 0.002034
+[Epoch 337] TrainUALNet: 1 | Train_UALNet_Loss: 0.000555 | Train_D_Loss: 0.004149 | Real_Prob: 0.997970 | Fake_Prob: 0.001943
+[Epoch 338] TrainUALNet: 1 | Train_UALNet_Loss: 0.000556 | Train_D_Loss: 0.004240 | Real_Prob: 0.997970 | Fake_Prob: 0.002033
+[Epoch 339] TrainUALNet: 1 | Train_UALNet_Loss: 0.000554 | Train_D_Loss: 0.004194 | Real_Prob: 0.997971 | Fake_Prob: 0.001988
+[Epoch 340] TrainUALNet: 1 | Train_UALNet_Loss: 0.000554 | Train_D_Loss: 0.004606 | Real_Prob: 0.997971 | Fake_Prob: 0.002385
+[Epoch 340] UALNet Test | PSNR: 32.198402 | SAM: 2.159050
+[Best UALNet Updated] Epoch: 340 | PSNR: 32.198402 | SAM: 2.159050
+[Epoch 341] TrainUALNet: 1 | Train_UALNet_Loss: 0.000553 | Train_D_Loss: 0.004273 | Real_Prob: 0.997971 | Fake_Prob: 0.002065
+[Epoch 342] TrainUALNet: 1 | Train_UALNet_Loss: 0.000557 | Train_D_Loss: 0.004513 | Real_Prob: 0.997970 | Fake_Prob: 0.002276
+[Epoch 343] TrainUALNet: 1 | Train_UALNet_Loss: 0.000551 | Train_D_Loss: 0.004353 | Real_Prob: 0.997971 | Fake_Prob: 0.002144
+[Epoch 344] TrainUALNet: 1 | Train_UALNet_Loss: 0.000550 | Train_D_Loss: 0.004292 | Real_Prob: 0.997970 | Fake_Prob: 0.002083
+[Epoch 345] TrainUALNet: 1 | Train_UALNet_Loss: 0.000555 | Train_D_Loss: 0.004437 | Real_Prob: 0.997971 | Fake_Prob: 0.002221
+[Epoch 345] UALNet Test | PSNR: 32.218246 | SAM: 2.151148
+[Best UALNet Updated] Epoch: 345 | PSNR: 32.218246 | SAM: 2.151148
+[Epoch 346] TrainUALNet: 1 | Train_UALNet_Loss: 0.000550 | Train_D_Loss: 0.004470 | Real_Prob: 0.997971 | Fake_Prob: 0.002256
+[Epoch 347] TrainUALNet: 1 | Train_UALNet_Loss: 0.000551 | Train_D_Loss: 0.004345 | Real_Prob: 0.997970 | Fake_Prob: 0.002136
+[Epoch 348] TrainUALNet: 1 | Train_UALNet_Loss: 0.000549 | Train_D_Loss: 0.004552 | Real_Prob: 0.997970 | Fake_Prob: 0.002338
+[Epoch 349] TrainUALNet: 1 | Train_UALNet_Loss: 0.000548 | Train_D_Loss: 0.004501 | Real_Prob: 0.997971 | Fake_Prob: 0.002283
+[Epoch 350] TrainUALNet: 1 | Train_UALNet_Loss: 0.000559 | Train_D_Loss: 0.004558 | Real_Prob: 0.997971 | Fake_Prob: 0.002346
+[Epoch 350] UALNet Test | PSNR: 32.222031 | SAM: 2.157519
+[Best UALNet Updated] Epoch: 350 | PSNR: 32.222031 | SAM: 2.157519
+[Epoch 351] TrainUALNet: 1 | Train_UALNet_Loss: 0.000551 | Train_D_Loss: 0.004680 | Real_Prob: 0.997971 | Fake_Prob: 0.002456
+[Epoch 352] TrainUALNet: 1 | Train_UALNet_Loss: 0.000548 | Train_D_Loss: 0.004646 | Real_Prob: 0.997970 | Fake_Prob: 0.002432
+[Epoch 353] TrainUALNet: 1 | Train_UALNet_Loss: 0.000548 | Train_D_Loss: 0.004590 | Real_Prob: 0.997971 | Fake_Prob: 0.002374
+[Epoch 354] TrainUALNet: 1 | Train_UALNet_Loss: 0.000547 | Train_D_Loss: 0.004453 | Real_Prob: 0.997954 | Fake_Prob: 0.002224
+[Epoch 355] TrainUALNet: 1 | Train_UALNet_Loss: 0.000547 | Train_D_Loss: 0.004950 | Real_Prob: 0.997971 | Fake_Prob: 0.002723
+[Epoch 355] UALNet Test | PSNR: 32.229988 | SAM: 2.152892
+[Best UALNet Updated] Epoch: 355 | PSNR: 32.229988 | SAM: 2.152892
+[Epoch 356] TrainUALNet: 1 | Train_UALNet_Loss: 0.000545 | Train_D_Loss: 0.004571 | Real_Prob: 0.997962 | Fake_Prob: 0.002348
+[Epoch 357] TrainUALNet: 1 | Train_UALNet_Loss: 0.000548 | Train_D_Loss: 0.004714 | Real_Prob: 0.997971 | Fake_Prob: 0.002496
+[Epoch 358] TrainUALNet: 1 | Train_UALNet_Loss: 0.000548 | Train_D_Loss: 0.004693 | Real_Prob: 0.997971 | Fake_Prob: 0.002475
+[Epoch 359] TrainUALNet: 1 | Train_UALNet_Loss: 0.000548 | Train_D_Loss: 0.004897 | Real_Prob: 0.997970 | Fake_Prob: 0.002671
+[Epoch 360] TrainUALNet: 1 | Train_UALNet_Loss: 0.000547 | Train_D_Loss: 0.004629 | Real_Prob: 0.997970 | Fake_Prob: 0.002408
+[Epoch 360] UALNet Test | PSNR: 32.236500 | SAM: 2.165820
+[Best UALNet Updated] Epoch: 360 | PSNR: 32.236500 | SAM: 2.165820
+[Epoch 361] TrainUALNet: 1 | Train_UALNet_Loss: 0.000546 | Train_D_Loss: 0.004950 | Real_Prob: 0.997969 | Fake_Prob: 0.002717
+[Epoch 362] TrainUALNet: 1 | Train_UALNet_Loss: 0.000546 | Train_D_Loss: 0.004691 | Real_Prob: 0.997971 | Fake_Prob: 0.002473
+[Epoch 363] TrainUALNet: 1 | Train_UALNet_Loss: 0.000544 | Train_D_Loss: 0.004831 | Real_Prob: 0.997971 | Fake_Prob: 0.002611
+[Epoch 364] TrainUALNet: 1 | Train_UALNet_Loss: 0.000544 | Train_D_Loss: 0.005015 | Real_Prob: 0.997783 | Fake_Prob: 0.002591
+[Epoch 365] TrainUALNet: 1 | Train_UALNet_Loss: 0.000544 | Train_D_Loss: 0.004835 | Real_Prob: 0.997971 | Fake_Prob: 0.002603
+[Epoch 365] UALNet Test | PSNR: 32.258766 | SAM: 2.146976
+[Best UALNet Updated] Epoch: 365 | PSNR: 32.258766 | SAM: 2.146976
+[Epoch 366] TrainUALNet: 1 | Train_UALNet_Loss: 0.000544 | Train_D_Loss: 0.004786 | Real_Prob: 0.997970 | Fake_Prob: 0.002570
+[Epoch 367] TrainUALNet: 1 | Train_UALNet_Loss: 0.000544 | Train_D_Loss: 0.005085 | Real_Prob: 0.997971 | Fake_Prob: 0.002851
+[Epoch 368] TrainUALNet: 1 | Train_UALNet_Loss: 0.000543 | Train_D_Loss: 0.004700 | Real_Prob: 0.997971 | Fake_Prob: 0.002479
+[Epoch 369] TrainUALNet: 1 | Train_UALNet_Loss: 0.000544 | Train_D_Loss: 0.004764 | Real_Prob: 0.997969 | Fake_Prob: 0.002548
+[Epoch 370] TrainUALNet: 1 | Train_UALNet_Loss: 0.000544 | Train_D_Loss: 0.004985 | Real_Prob: 0.997970 | Fake_Prob: 0.002762
+[Epoch 370] UALNet Test | PSNR: 32.188034 | SAM: 2.144110
+[Epoch 371] TrainUALNet: 1 | Train_UALNet_Loss: 0.000548 | Train_D_Loss: 0.004383 | Real_Prob: 0.997971 | Fake_Prob: 0.002174
+[Epoch 372] TrainUALNet: 1 | Train_UALNet_Loss: 0.000541 | Train_D_Loss: 0.005157 | Real_Prob: 0.997971 | Fake_Prob: 0.002925
+[Epoch 373] TrainUALNet: 1 | Train_UALNet_Loss: 0.000540 | Train_D_Loss: 0.004932 | Real_Prob: 0.997971 | Fake_Prob: 0.002706
+[Epoch 374] TrainUALNet: 1 | Train_UALNet_Loss: 0.000540 | Train_D_Loss: 0.005342 | Real_Prob: 0.997971 | Fake_Prob: 0.003087
+[Epoch 375] TrainUALNet: 1 | Train_UALNet_Loss: 0.000540 | Train_D_Loss: 0.005145 | Real_Prob: 0.997971 | Fake_Prob: 0.002904
+[Epoch 375] UALNet Test | PSNR: 32.260124 | SAM: 2.146474
+[Best UALNet Updated] Epoch: 375 | PSNR: 32.260124 | SAM: 2.146474
+[Epoch 376] TrainUALNet: 1 | Train_UALNet_Loss: 0.000541 | Train_D_Loss: 0.004981 | Real_Prob: 0.997971 | Fake_Prob: 0.002749
+[Epoch 377] TrainUALNet: 1 | Train_UALNet_Loss: 0.000542 | Train_D_Loss: 0.005156 | Real_Prob: 0.997971 | Fake_Prob: 0.002914
+[Epoch 378] TrainUALNet: 1 | Train_UALNet_Loss: 0.000545 | Train_D_Loss: 0.005218 | Real_Prob: 0.997971 | Fake_Prob: 0.002983
+[Epoch 379] TrainUALNet: 1 | Train_UALNet_Loss: 0.000543 | Train_D_Loss: 0.005037 | Real_Prob: 0.997970 | Fake_Prob: 0.002814
+[Epoch 380] TrainUALNet: 1 | Train_UALNet_Loss: 0.000566 | Train_D_Loss: 0.004562 | Real_Prob: 0.997971 | Fake_Prob: 0.002353
+[Epoch 380] UALNet Test | PSNR: 32.293591 | SAM: 2.122197
+[Best UALNet Updated] Epoch: 380 | PSNR: 32.293591 | SAM: 2.122197
+[Epoch 381] TrainUALNet: 1 | Train_UALNet_Loss: 0.000539 | Train_D_Loss: 0.005090 | Real_Prob: 0.997971 | Fake_Prob: 0.002865
+[Epoch 382] TrainUALNet: 1 | Train_UALNet_Loss: 0.000539 | Train_D_Loss: 0.005242 | Real_Prob: 0.997970 | Fake_Prob: 0.003000
+[Epoch 383] TrainUALNet: 1 | Train_UALNet_Loss: 0.000537 | Train_D_Loss: 0.004892 | Real_Prob: 0.997971 | Fake_Prob: 0.002672
+[Epoch 384] TrainUALNet: 1 | Train_UALNet_Loss: 0.000539 | Train_D_Loss: 0.004864 | Real_Prob: 0.997971 | Fake_Prob: 0.002645
+[Epoch 385] TrainUALNet: 1 | Train_UALNet_Loss: 0.000537 | Train_D_Loss: 0.005187 | Real_Prob: 0.997970 | Fake_Prob: 0.002953
+[Epoch 385] UALNet Test | PSNR: 32.275127 | SAM: 2.129759
+[Epoch 386] TrainUALNet: 1 | Train_UALNet_Loss: 0.000540 | Train_D_Loss: 0.004951 | Real_Prob: 0.997971 | Fake_Prob: 0.002727
+[Epoch 387] TrainUALNet: 1 | Train_UALNet_Loss: 0.000536 | Train_D_Loss: 0.005165 | Real_Prob: 0.997971 | Fake_Prob: 0.002923
+[Epoch 388] TrainUALNet: 1 | Train_UALNet_Loss: 0.000538 | Train_D_Loss: 0.005269 | Real_Prob: 0.997971 | Fake_Prob: 0.003031
+[Epoch 389] TrainUALNet: 1 | Train_UALNet_Loss: 0.000536 | Train_D_Loss: 0.005269 | Real_Prob: 0.997971 | Fake_Prob: 0.003045
+[Epoch 390] TrainUALNet: 1 | Train_UALNet_Loss: 0.000537 | Train_D_Loss: 0.005194 | Real_Prob: 0.997970 | Fake_Prob: 0.002958
+[Epoch 390] UALNet Test | PSNR: 32.263050 | SAM: 2.132522
+[Epoch 391] TrainUALNet: 1 | Train_UALNet_Loss: 0.000539 | Train_D_Loss: 0.005218 | Real_Prob: 0.997971 | Fake_Prob: 0.002983
+[Epoch 392] TrainUALNet: 1 | Train_UALNet_Loss: 0.000535 | Train_D_Loss: 0.005380 | Real_Prob: 0.997969 | Fake_Prob: 0.003143
+[Epoch 393] TrainUALNet: 1 | Train_UALNet_Loss: 0.000535 | Train_D_Loss: 0.005416 | Real_Prob: 0.997954 | Fake_Prob: 0.003158
+[Epoch 394] TrainUALNet: 1 | Train_UALNet_Loss: 0.000538 | Train_D_Loss: 0.005354 | Real_Prob: 0.997971 | Fake_Prob: 0.003113
+[Epoch 395] TrainUALNet: 1 | Train_UALNet_Loss: 0.000582 | Train_D_Loss: 0.005453 | Real_Prob: 0.997970 | Fake_Prob: 0.003205
+[Epoch 395] UALNet Test | PSNR: 32.080894 | SAM: 2.220255
+[Epoch 396] TrainUALNet: 1 | Train_UALNet_Loss: 0.000549 | Train_D_Loss: 0.005202 | Real_Prob: 0.997970 | Fake_Prob: 0.002961
+[Epoch 397] TrainUALNet: 1 | Train_UALNet_Loss: 0.000539 | Train_D_Loss: 0.005166 | Real_Prob: 0.997971 | Fake_Prob: 0.002942
+[Epoch 398] TrainUALNet: 1 | Train_UALNet_Loss: 0.000534 | Train_D_Loss: 0.005254 | Real_Prob: 0.997970 | Fake_Prob: 0.003028
+[Epoch 399] TrainUALNet: 1 | Train_UALNet_Loss: 0.000534 | Train_D_Loss: 0.005783 | Real_Prob: 0.997971 | Fake_Prob: 0.003505
+[Epoch 400] TrainUALNet: 1 | Train_UALNet_Loss: 0.000538 | Train_D_Loss: 0.005088 | Real_Prob: 0.997971 | Fake_Prob: 0.002858
+[Epoch 400] UALNet Test | PSNR: 32.305042 | SAM: 2.125342
+[Best UALNet Updated] Epoch: 400 | PSNR: 32.305042 | SAM: 2.125342
+[Epoch 401] TrainUALNet: 1 | Train_UALNet_Loss: 0.000534 | Train_D_Loss: 0.005293 | Real_Prob: 0.997783 | Fake_Prob: 0.002871
+[Epoch 402] TrainUALNet: 1 | Train_UALNet_Loss: 0.000533 | Train_D_Loss: 0.005306 | Real_Prob: 0.997970 | Fake_Prob: 0.003070
+[Epoch 403] TrainUALNet: 1 | Train_UALNet_Loss: 0.000532 | Train_D_Loss: 0.005916 | Real_Prob: 0.997970 | Fake_Prob: 0.003654
+[Epoch 404] TrainUALNet: 1 | Train_UALNet_Loss: 0.000538 | Train_D_Loss: 0.005131 | Real_Prob: 0.997971 | Fake_Prob: 0.002910
+[Epoch 405] TrainUALNet: 1 | Train_UALNet_Loss: 0.000533 | Train_D_Loss: 0.005786 | Real_Prob: 0.997970 | Fake_Prob: 0.003528
+[Epoch 405] UALNet Test | PSNR: 32.292576 | SAM: 2.134379
+[Epoch 406] TrainUALNet: 1 | Train_UALNet_Loss: 0.000532 | Train_D_Loss: 0.005223 | Real_Prob: 0.997970 | Fake_Prob: 0.003000
+[Epoch 407] TrainUALNet: 1 | Train_UALNet_Loss: 0.000531 | Train_D_Loss: 0.005394 | Real_Prob: 0.997969 | Fake_Prob: 0.003155
+[Epoch 408] TrainUALNet: 1 | Train_UALNet_Loss: 0.000534 | Train_D_Loss: 0.005640 | Real_Prob: 0.997971 | Fake_Prob: 0.003391
+[Epoch 409] TrainUALNet: 1 | Train_UALNet_Loss: 0.000533 | Train_D_Loss: 0.005506 | Real_Prob: 0.997970 | Fake_Prob: 0.003256
+[Epoch 410] TrainUALNet: 1 | Train_UALNet_Loss: 0.000536 | Train_D_Loss: 0.006036 | Real_Prob: 0.997971 | Fake_Prob: 0.003777
+[Epoch 410] UALNet Test | PSNR: 32.290638 | SAM: 2.110986
+[Epoch 411] TrainUALNet: 1 | Train_UALNet_Loss: 0.000532 | Train_D_Loss: 0.005815 | Real_Prob: 0.997971 | Fake_Prob: 0.003548
+[Epoch 412] TrainUALNet: 1 | Train_UALNet_Loss: 0.000532 | Train_D_Loss: 0.005735 | Real_Prob: 0.997971 | Fake_Prob: 0.003487
+[Epoch 413] TrainUALNet: 1 | Train_UALNet_Loss: 0.000530 | Train_D_Loss: 0.006109 | Real_Prob: 0.997970 | Fake_Prob: 0.003791
+[Epoch 414] TrainUALNet: 1 | Train_UALNet_Loss: 0.000530 | Train_D_Loss: 0.005444 | Real_Prob: 0.997971 | Fake_Prob: 0.003210
+[Epoch 415] TrainUALNet: 1 | Train_UALNet_Loss: 0.000537 | Train_D_Loss: 0.005972 | Real_Prob: 0.997971 | Fake_Prob: 0.003704
+[Epoch 415] UALNet Test | PSNR: 32.263596 | SAM: 2.134428
+[Epoch 416] TrainUALNet: 1 | Train_UALNet_Loss: 0.000532 | Train_D_Loss: 0.005945 | Real_Prob: 0.997969 | Fake_Prob: 0.003672
+[Epoch 417] TrainUALNet: 1 | Train_UALNet_Loss: 0.000532 | Train_D_Loss: 0.005331 | Real_Prob: 0.997971 | Fake_Prob: 0.003093
+[Epoch 418] TrainUALNet: 1 | Train_UALNet_Loss: 0.000531 | Train_D_Loss: 0.006074 | Real_Prob: 0.997971 | Fake_Prob: 0.003803
+[Epoch 419] TrainUALNet: 1 | Train_UALNet_Loss: 0.000532 | Train_D_Loss: 0.005793 | Real_Prob: 0.997971 | Fake_Prob: 0.003523
+[Epoch 420] TrainUALNet: 1 | Train_UALNet_Loss: 0.000531 | Train_D_Loss: 0.005621 | Real_Prob: 0.997969 | Fake_Prob: 0.003388
+[Epoch 420] UALNet Test | PSNR: 32.278652 | SAM: 2.134249
+[Epoch 421] TrainUALNet: 1 | Train_UALNet_Loss: 0.000532 | Train_D_Loss: 0.005832 | Real_Prob: 0.997970 | Fake_Prob: 0.003590
+[Epoch 422] TrainUALNet: 1 | Train_UALNet_Loss: 0.000530 | Train_D_Loss: 0.006004 | Real_Prob: 0.997970 | Fake_Prob: 0.003752
+[Epoch 423] TrainUALNet: 1 | Train_UALNet_Loss: 0.000532 | Train_D_Loss: 0.005763 | Real_Prob: 0.997971 | Fake_Prob: 0.003513
+[Epoch 424] TrainUALNet: 1 | Train_UALNet_Loss: 0.000528 | Train_D_Loss: 0.005595 | Real_Prob: 0.997970 | Fake_Prob: 0.003356
+[Epoch 425] TrainUALNet: 1 | Train_UALNet_Loss: 0.000529 | Train_D_Loss: 0.005930 | Real_Prob: 0.997971 | Fake_Prob: 0.003656
+[Epoch 425] UALNet Test | PSNR: 32.299110 | SAM: 2.110671
+[Epoch 426] TrainUALNet: 1 | Train_UALNet_Loss: 0.000531 | Train_D_Loss: 0.006104 | Real_Prob: 0.997971 | Fake_Prob: 0.003850
+[Epoch 427] TrainUALNet: 1 | Train_UALNet_Loss: 0.000530 | Train_D_Loss: 0.006010 | Real_Prob: 0.997969 | Fake_Prob: 0.003737
+[Epoch 428] TrainUALNet: 1 | Train_UALNet_Loss: 0.000528 | Train_D_Loss: 0.006052 | Real_Prob: 0.997969 | Fake_Prob: 0.003791
+[Epoch 429] TrainUALNet: 1 | Train_UALNet_Loss: 0.000529 | Train_D_Loss: 0.006203 | Real_Prob: 0.997970 | Fake_Prob: 0.003926
+[Epoch 430] TrainUALNet: 1 | Train_UALNet_Loss: 0.000529 | Train_D_Loss: 0.005848 | Real_Prob: 0.997970 | Fake_Prob: 0.003598
+[Epoch 430] UALNet Test | PSNR: 32.332878 | SAM: 2.109566
+[Best UALNet Updated] Epoch: 430 | PSNR: 32.332878 | SAM: 2.109566
+[Epoch 431] TrainUALNet: 1 | Train_UALNet_Loss: 0.000527 | Train_D_Loss: 0.006096 | Real_Prob: 0.997971 | Fake_Prob: 0.003818
+[Epoch 432] TrainUALNet: 1 | Train_UALNet_Loss: 0.000530 | Train_D_Loss: 0.006432 | Real_Prob: 0.997971 | Fake_Prob: 0.004164
+[Epoch 433] TrainUALNet: 1 | Train_UALNet_Loss: 0.000527 | Train_D_Loss: 0.006194 | Real_Prob: 0.997971 | Fake_Prob: 0.003920
+[Epoch 434] TrainUALNet: 1 | Train_UALNet_Loss: 0.000528 | Train_D_Loss: 0.006321 | Real_Prob: 0.997970 | Fake_Prob: 0.004060
+[Epoch 435] TrainUALNet: 1 | Train_UALNet_Loss: 0.000530 | Train_D_Loss: 0.006847 | Real_Prob: 0.997970 | Fake_Prob: 0.004453
+[Epoch 435] UALNet Test | PSNR: 32.293446 | SAM: 2.124015
+[Epoch 436] TrainUALNet: 1 | Train_UALNet_Loss: 0.000528 | Train_D_Loss: 0.006250 | Real_Prob: 0.997970 | Fake_Prob: 0.003987
+[Epoch 437] TrainUALNet: 1 | Train_UALNet_Loss: 0.000530 | Train_D_Loss: 0.005776 | Real_Prob: 0.997970 | Fake_Prob: 0.003531
+[Epoch 438] TrainUALNet: 1 | Train_UALNet_Loss: 0.000532 | Train_D_Loss: 0.006210 | Real_Prob: 0.997971 | Fake_Prob: 0.003941
+[Epoch 439] TrainUALNet: 1 | Train_UALNet_Loss: 0.000525 | Train_D_Loss: 0.006045 | Real_Prob: 0.997970 | Fake_Prob: 0.003778
+[Epoch 440] TrainUALNet: 1 | Train_UALNet_Loss: 0.000530 | Train_D_Loss: 0.006209 | Real_Prob: 0.997971 | Fake_Prob: 0.003937
+[Epoch 440] UALNet Test | PSNR: 32.286110 | SAM: 2.131581
+[Epoch 441] TrainUALNet: 1 | Train_UALNet_Loss: 0.000527 | Train_D_Loss: 0.006215 | Real_Prob: 0.997971 | Fake_Prob: 0.003954
+[Epoch 442] TrainUALNet: 1 | Train_UALNet_Loss: 0.000526 | Train_D_Loss: 0.006185 | Real_Prob: 0.997971 | Fake_Prob: 0.003929
+[Epoch 443] TrainUALNet: 1 | Train_UALNet_Loss: 0.000526 | Train_D_Loss: 0.006785 | Real_Prob: 0.997971 | Fake_Prob: 0.004479
+[Epoch 444] TrainUALNet: 1 | Train_UALNet_Loss: 0.000533 | Train_D_Loss: 0.006148 | Real_Prob: 0.997971 | Fake_Prob: 0.003886
+[Epoch 445] TrainUALNet: 1 | Train_UALNet_Loss: 0.000526 | Train_D_Loss: 0.007219 | Real_Prob: 0.997971 | Fake_Prob: 0.004841
+[Epoch 445] UALNet Test | PSNR: 32.328545 | SAM: 2.107466
+[Epoch 446] TrainUALNet: 1 | Train_UALNet_Loss: 0.000524 | Train_D_Loss: 0.006244 | Real_Prob: 0.997971 | Fake_Prob: 0.003984
+[Epoch 447] TrainUALNet: 1 | Train_UALNet_Loss: 0.000525 | Train_D_Loss: 0.006689 | Real_Prob: 0.997877 | Fake_Prob: 0.004290
+[Epoch 448] TrainUALNet: 1 | Train_UALNet_Loss: 0.000524 | Train_D_Loss: 0.007569 | Real_Prob: 0.997971 | Fake_Prob: 0.005183
+[Epoch 449] TrainUALNet: 1 | Train_UALNet_Loss: 0.000524 | Train_D_Loss: 0.007203 | Real_Prob: 0.997971 | Fake_Prob: 0.004850
+[Epoch 450] TrainUALNet: 1 | Train_UALNet_Loss: 0.000525 | Train_D_Loss: 0.006993 | Real_Prob: 0.997970 | Fake_Prob: 0.004700
+[Epoch 450] UALNet Test | PSNR: 32.309963 | SAM: 2.107302
+[Epoch 451] TrainUALNet: 1 | Train_UALNet_Loss: 0.000527 | Train_D_Loss: 0.006481 | Real_Prob: 0.997971 | Fake_Prob: 0.004218
+[Epoch 452] TrainUALNet: 1 | Train_UALNet_Loss: 0.000528 | Train_D_Loss: 0.006971 | Real_Prob: 0.997971 | Fake_Prob: 0.004682
+[Epoch 453] TrainUALNet: 1 | Train_UALNet_Loss: 0.000522 | Train_D_Loss: 0.006925 | Real_Prob: 0.997970 | Fake_Prob: 0.004629
+[Epoch 454] TrainUALNet: 1 | Train_UALNet_Loss: 0.000525 | Train_D_Loss: 0.007883 | Real_Prob: 0.997971 | Fake_Prob: 0.005400
+[Epoch 455] TrainUALNet: 1 | Train_UALNet_Loss: 0.000524 | Train_D_Loss: 0.006317 | Real_Prob: 0.997971 | Fake_Prob: 0.004042
+[Epoch 455] UALNet Test | PSNR: 32.350189 | SAM: 2.108616
+[Best UALNet Updated] Epoch: 455 | PSNR: 32.350189 | SAM: 2.108616
+[Epoch 456] TrainUALNet: 1 | Train_UALNet_Loss: 0.000522 | Train_D_Loss: 0.007025 | Real_Prob: 0.997970 | Fake_Prob: 0.004736
+[Epoch 457] TrainUALNet: 1 | Train_UALNet_Loss: 0.000530 | Train_D_Loss: 0.006246 | Real_Prob: 0.997971 | Fake_Prob: 0.004002
+[Epoch 458] TrainUALNet: 1 | Train_UALNet_Loss: 0.000523 | Train_D_Loss: 0.007032 | Real_Prob: 0.997971 | Fake_Prob: 0.004735
+[Epoch 459] TrainUALNet: 1 | Train_UALNet_Loss: 0.000523 | Train_D_Loss: 0.007407 | Real_Prob: 0.997971 | Fake_Prob: 0.005056
+[Epoch 460] TrainUALNet: 1 | Train_UALNet_Loss: 0.000523 | Train_D_Loss: 0.008996 | Real_Prob: 0.997970 | Fake_Prob: 0.006378
+[Epoch 460] UALNet Test | PSNR: 32.264336 | SAM: 2.138186
+[Epoch 461] TrainUALNet: 1 | Train_UALNet_Loss: 0.000522 | Train_D_Loss: 0.006697 | Real_Prob: 0.997970 | Fake_Prob: 0.004419
+[Epoch 462] TrainUALNet: 1 | Train_UALNet_Loss: 0.000527 | Train_D_Loss: 0.006853 | Real_Prob: 0.997971 | Fake_Prob: 0.004562
+[Epoch 463] TrainUALNet: 1 | Train_UALNet_Loss: 0.000522 | Train_D_Loss: 0.007319 | Real_Prob: 0.997970 | Fake_Prob: 0.004988
+[Epoch 464] TrainUALNet: 1 | Train_UALNet_Loss: 0.000523 | Train_D_Loss: 0.006718 | Real_Prob: 0.997971 | Fake_Prob: 0.004446
+[Epoch 465] TrainUALNet: 1 | Train_UALNet_Loss: 0.000524 | Train_D_Loss: 0.007140 | Real_Prob: 0.997971 | Fake_Prob: 0.004833
+[Epoch 465] UALNet Test | PSNR: 32.317017 | SAM: 2.114434
+[Epoch 466] TrainUALNet: 1 | Train_UALNet_Loss: 0.000524 | Train_D_Loss: 0.007890 | Real_Prob: 0.997971 | Fake_Prob: 0.005508
+[Epoch 467] TrainUALNet: 1 | Train_UALNet_Loss: 0.000521 | Train_D_Loss: 0.007319 | Real_Prob: 0.997971 | Fake_Prob: 0.004993
+[Epoch 468] TrainUALNet: 1 | Train_UALNet_Loss: 0.000521 | Train_D_Loss: 0.007451 | Real_Prob: 0.997970 | Fake_Prob: 0.005130
+[Epoch 469] TrainUALNet: 1 | Train_UALNet_Loss: 0.000521 | Train_D_Loss: 0.007694 | Real_Prob: 0.997970 | Fake_Prob: 0.005363
+[Epoch 470] TrainUALNet: 1 | Train_UALNet_Loss: 0.000523 | Train_D_Loss: 0.008196 | Real_Prob: 0.997970 | Fake_Prob: 0.005688
+[Epoch 470] UALNet Test | PSNR: 32.316097 | SAM: 2.107439
+[Epoch 471] TrainUALNet: 1 | Train_UALNet_Loss: 0.000522 | Train_D_Loss: 0.007058 | Real_Prob: 0.997971 | Fake_Prob: 0.004779
+[Epoch 472] TrainUALNet: 1 | Train_UALNet_Loss: 0.000521 | Train_D_Loss: 0.007519 | Real_Prob: 0.997971 | Fake_Prob: 0.005177
+[Epoch 473] TrainUALNet: 1 | Train_UALNet_Loss: 0.000520 | Train_D_Loss: 0.006797 | Real_Prob: 0.997971 | Fake_Prob: 0.004512
+[Epoch 474] TrainUALNet: 1 | Train_UALNet_Loss: 0.000519 | Train_D_Loss: 0.007486 | Real_Prob: 0.997970 | Fake_Prob: 0.005186
+[Epoch 475] TrainUALNet: 1 | Train_UALNet_Loss: 0.000519 | Train_D_Loss: 0.009987 | Real_Prob: 0.996788 | Fake_Prob: 0.005828
+[Epoch 475] UALNet Test | PSNR: 32.371338 | SAM: 2.096983
+[Best UALNet Updated] Epoch: 475 | PSNR: 32.371338 | SAM: 2.096983
+[Epoch 476] TrainUALNet: 1 | Train_UALNet_Loss: 0.000519 | Train_D_Loss: 0.009200 | Real_Prob: 0.997971 | Fake_Prob: 0.006600
+[Epoch 477] TrainUALNet: 1 | Train_UALNet_Loss: 0.000521 | Train_D_Loss: 0.007300 | Real_Prob: 0.997971 | Fake_Prob: 0.004996
+[Epoch 478] TrainUALNet: 1 | Train_UALNet_Loss: 0.000520 | Train_D_Loss: 0.008997 | Real_Prob: 0.997971 | Fake_Prob: 0.006422
+[Epoch 479] TrainUALNet: 1 | Train_UALNet_Loss: 0.000524 | Train_D_Loss: 0.007290 | Real_Prob: 0.997971 | Fake_Prob: 0.005002
+[Epoch 480] TrainUALNet: 1 | Train_UALNet_Loss: 0.000518 | Train_D_Loss: 0.008855 | Real_Prob: 0.997970 | Fake_Prob: 0.006222
+[Epoch 480] UALNet Test | PSNR: 32.344795 | SAM: 2.102903
+[Epoch 481] TrainUALNet: 1 | Train_UALNet_Loss: 0.000519 | Train_D_Loss: 0.008401 | Real_Prob: 0.997970 | Fake_Prob: 0.005915
+[Epoch 482] TrainUALNet: 1 | Train_UALNet_Loss: 0.000521 | Train_D_Loss: 0.009148 | Real_Prob: 0.997970 | Fake_Prob: 0.006605
+[Epoch 483] TrainUALNet: 1 | Train_UALNet_Loss: 0.000521 | Train_D_Loss: 0.007677 | Real_Prob: 0.997971 | Fake_Prob: 0.005341
+[Epoch 484] TrainUALNet: 1 | Train_UALNet_Loss: 0.000520 | Train_D_Loss: 0.007711 | Real_Prob: 0.997970 | Fake_Prob: 0.005375
+[Epoch 485] TrainUALNet: 1 | Train_UALNet_Loss: 0.000517 | Train_D_Loss: 0.007944 | Real_Prob: 0.997970 | Fake_Prob: 0.005577
+[Epoch 485] UALNet Test | PSNR: 32.329281 | SAM: 2.119646
+[Epoch 486] TrainUALNet: 1 | Train_UALNet_Loss: 0.000519 | Train_D_Loss: 0.008901 | Real_Prob: 0.997970 | Fake_Prob: 0.006424
+[Epoch 487] TrainUALNet: 1 | Train_UALNet_Loss: 0.000518 | Train_D_Loss: 0.007158 | Real_Prob: 0.997971 | Fake_Prob: 0.004871
+[Epoch 488] TrainUALNet: 1 | Train_UALNet_Loss: 0.000517 | Train_D_Loss: 0.008877 | Real_Prob: 0.997969 | Fake_Prob: 0.006373
+[Epoch 489] TrainUALNet: 1 | Train_UALNet_Loss: 0.000517 | Train_D_Loss: 0.007630 | Real_Prob: 0.997971 | Fake_Prob: 0.005302
+[Epoch 490] TrainUALNet: 1 | Train_UALNet_Loss: 0.000518 | Train_D_Loss: 0.008480 | Real_Prob: 0.997971 | Fake_Prob: 0.006020
+[Epoch 490] UALNet Test | PSNR: 32.329659 | SAM: 2.105511
+[Epoch 491] TrainUALNet: 1 | Train_UALNet_Loss: 0.000517 | Train_D_Loss: 0.008457 | Real_Prob: 0.997971 | Fake_Prob: 0.006033
+[Epoch 492] TrainUALNet: 1 | Train_UALNet_Loss: 0.000517 | Train_D_Loss: 0.009748 | Real_Prob: 0.997971 | Fake_Prob: 0.006922
+[Epoch 493] TrainUALNet: 1 | Train_UALNet_Loss: 0.000515 | Train_D_Loss: 0.008225 | Real_Prob: 0.997971 | Fake_Prob: 0.005903
+[Epoch 494] TrainUALNet: 1 | Train_UALNet_Loss: 0.000518 | Train_D_Loss: 0.011452 | Real_Prob: 0.997971 | Fake_Prob: 0.008112
+[Epoch 495] TrainUALNet: 1 | Train_UALNet_Loss: 0.000517 | Train_D_Loss: 0.007656 | Real_Prob: 0.997971 | Fake_Prob: 0.005341
+[Epoch 495] UALNet Test | PSNR: 32.327335 | SAM: 2.102977
+[Epoch 496] TrainUALNet: 1 | Train_UALNet_Loss: 0.000550 | Train_D_Loss: 0.007637 | Real_Prob: 0.997971 | Fake_Prob: 0.005249
+[Epoch 497] TrainUALNet: 1 | Train_UALNet_Loss: 0.000515 | Train_D_Loss: 0.008271 | Real_Prob: 0.997971 | Fake_Prob: 0.005826
+[Epoch 498] TrainUALNet: 1 | Train_UALNet_Loss: 0.000516 | Train_D_Loss: 0.008612 | Real_Prob: 0.997970 | Fake_Prob: 0.006181
+[Epoch 499] TrainUALNet: 1 | Train_UALNet_Loss: 0.000515 | Train_D_Loss: 0.008777 | Real_Prob: 0.997971 | Fake_Prob: 0.006327
+[Epoch 500] TrainUALNet: 1 | Train_UALNet_Loss: 0.000516 | Train_D_Loss: 0.008961 | Real_Prob: 0.997970 | Fake_Prob: 0.006454
+[Epoch 500] UALNet Test | PSNR: 32.355476 | SAM: 2.088610
+[Epoch 501] TrainUALNet: 1 | Train_UALNet_Loss: 0.000514 | Train_D_Loss: 0.008485 | Real_Prob: 0.997971 | Fake_Prob: 0.006072
+[Epoch 502] TrainUALNet: 1 | Train_UALNet_Loss: 0.000514 | Train_D_Loss: 0.009307 | Real_Prob: 0.997971 | Fake_Prob: 0.006678
+[Epoch 503] TrainUALNet: 1 | Train_UALNet_Loss: 0.000515 | Train_D_Loss: 0.009055 | Real_Prob: 0.997971 | Fake_Prob: 0.006464
+[Epoch 504] TrainUALNet: 1 | Train_UALNet_Loss: 0.000514 | Train_D_Loss: 0.009487 | Real_Prob: 0.997971 | Fake_Prob: 0.006872
+[Epoch 505] TrainUALNet: 1 | Train_UALNet_Loss: 0.000518 | Train_D_Loss: 0.008600 | Real_Prob: 0.997971 | Fake_Prob: 0.006155
+[Epoch 505] UALNet Test | PSNR: 32.282795 | SAM: 2.104729
+[Epoch 506] TrainUALNet: 1 | Train_UALNet_Loss: 0.000515 | Train_D_Loss: 0.010172 | Real_Prob: 0.997970 | Fake_Prob: 0.007395
+[Epoch 507] TrainUALNet: 1 | Train_UALNet_Loss: 0.000514 | Train_D_Loss: 0.008791 | Real_Prob: 0.997970 | Fake_Prob: 0.006328
+[Epoch 508] TrainUALNet: 1 | Train_UALNet_Loss: 0.000515 | Train_D_Loss: 0.009090 | Real_Prob: 0.997971 | Fake_Prob: 0.006703
+[Epoch 509] TrainUALNet: 1 | Train_UALNet_Loss: 0.000515 | Train_D_Loss: 0.008026 | Real_Prob: 0.997971 | Fake_Prob: 0.005685
+[Epoch 510] TrainUALNet: 1 | Train_UALNet_Loss: 0.000517 | Train_D_Loss: 0.008326 | Real_Prob: 0.997971 | Fake_Prob: 0.005978
+[Epoch 510] UALNet Test | PSNR: 32.364830 | SAM: 2.094282
+[Epoch 511] TrainUALNet: 1 | Train_UALNet_Loss: 0.000517 | Train_D_Loss: 0.009465 | Real_Prob: 0.997971 | Fake_Prob: 0.006774
+[Epoch 512] TrainUALNet: 1 | Train_UALNet_Loss: 0.000515 | Train_D_Loss: 0.008873 | Real_Prob: 0.997971 | Fake_Prob: 0.006472
+[Epoch 513] TrainUALNet: 1 | Train_UALNet_Loss: 0.000513 | Train_D_Loss: 0.009158 | Real_Prob: 0.997971 | Fake_Prob: 0.006664
+[Epoch 514] TrainUALNet: 1 | Train_UALNet_Loss: 0.000512 | Train_D_Loss: 0.010922 | Real_Prob: 0.997969 | Fake_Prob: 0.008133
+[Epoch 515] TrainUALNet: 1 | Train_UALNet_Loss: 0.000515 | Train_D_Loss: 0.010328 | Real_Prob: 0.997971 | Fake_Prob: 0.007618
+[Epoch 515] UALNet Test | PSNR: 32.357128 | SAM: 2.105690
+[Epoch 516] TrainUALNet: 1 | Train_UALNet_Loss: 0.000515 | Train_D_Loss: 0.009524 | Real_Prob: 0.997971 | Fake_Prob: 0.007010
+[Epoch 517] TrainUALNet: 1 | Train_UALNet_Loss: 0.000513 | Train_D_Loss: 0.009455 | Real_Prob: 0.997971 | Fake_Prob: 0.006832
+[Epoch 518] TrainUALNet: 1 | Train_UALNet_Loss: 0.000512 | Train_D_Loss: 0.010793 | Real_Prob: 0.997971 | Fake_Prob: 0.007834
+[Epoch 519] TrainUALNet: 1 | Train_UALNet_Loss: 0.000513 | Train_D_Loss: 0.009797 | Real_Prob: 0.997971 | Fake_Prob: 0.007192
+[Epoch 520] TrainUALNet: 1 | Train_UALNet_Loss: 0.000513 | Train_D_Loss: 0.009619 | Real_Prob: 0.997971 | Fake_Prob: 0.007130
+[Epoch 520] UALNet Test | PSNR: 32.370216 | SAM: 2.084161
+[Epoch 521] TrainUALNet: 1 | Train_UALNet_Loss: 0.000514 | Train_D_Loss: 0.009156 | Real_Prob: 0.997970 | Fake_Prob: 0.006660
+[Epoch 522] TrainUALNet: 1 | Train_UALNet_Loss: 0.000512 | Train_D_Loss: 0.010366 | Real_Prob: 0.997970 | Fake_Prob: 0.007585
+[Epoch 523] TrainUALNet: 1 | Train_UALNet_Loss: 0.000518 | Train_D_Loss: 0.010659 | Real_Prob: 0.997971 | Fake_Prob: 0.007667
+[Epoch 524] TrainUALNet: 1 | Train_UALNet_Loss: 0.000513 | Train_D_Loss: 0.009503 | Real_Prob: 0.997970 | Fake_Prob: 0.007018
+[Epoch 525] TrainUALNet: 1 | Train_UALNet_Loss: 0.000515 | Train_D_Loss: 0.011526 | Real_Prob: 0.997971 | Fake_Prob: 0.008438
+[Epoch 525] UALNet Test | PSNR: 32.351086 | SAM: 2.111172
+[Epoch 526] TrainUALNet: 1 | Train_UALNet_Loss: 0.000513 | Train_D_Loss: 0.009534 | Real_Prob: 0.997971 | Fake_Prob: 0.006964
+[Epoch 527] TrainUALNet: 1 | Train_UALNet_Loss: 0.000512 | Train_D_Loss: 0.011002 | Real_Prob: 0.997971 | Fake_Prob: 0.007830
+[Epoch 528] TrainUALNet: 1 | Train_UALNet_Loss: 0.000514 | Train_D_Loss: 0.009662 | Real_Prob: 0.997971 | Fake_Prob: 0.007179
+[Epoch 529] TrainUALNet: 1 | Train_UALNet_Loss: 0.000511 | Train_D_Loss: 0.010217 | Real_Prob: 0.997971 | Fake_Prob: 0.007392
+[Epoch 530] TrainUALNet: 1 | Train_UALNet_Loss: 0.000511 | Train_D_Loss: 0.011626 | Real_Prob: 0.997971 | Fake_Prob: 0.008655
+[Epoch 530] UALNet Test | PSNR: 32.364258 | SAM: 2.086942
+[Epoch 531] TrainUALNet: 1 | Train_UALNet_Loss: 0.000511 | Train_D_Loss: 0.010302 | Real_Prob: 0.997969 | Fake_Prob: 0.007643
+[Epoch 532] TrainUALNet: 1 | Train_UALNet_Loss: 0.000512 | Train_D_Loss: 0.010606 | Real_Prob: 0.997970 | Fake_Prob: 0.007700
+[Epoch 533] TrainUALNet: 1 | Train_UALNet_Loss: 0.000510 | Train_D_Loss: 0.010330 | Real_Prob: 0.997970 | Fake_Prob: 0.007501
+[Epoch 534] TrainUALNet: 1 | Train_UALNet_Loss: 0.000511 | Train_D_Loss: 0.011233 | Real_Prob: 0.997971 | Fake_Prob: 0.008187
+[Epoch 535] TrainUALNet: 1 | Train_UALNet_Loss: 0.000511 | Train_D_Loss: 0.011345 | Real_Prob: 0.997971 | Fake_Prob: 0.008228
+[Epoch 535] UALNet Test | PSNR: 32.378792 | SAM: 2.106814
+[Best UALNet Updated] Epoch: 535 | PSNR: 32.378792 | SAM: 2.106814
+[Epoch 536] TrainUALNet: 1 | Train_UALNet_Loss: 0.000513 | Train_D_Loss: 0.008980 | Real_Prob: 0.997970 | Fake_Prob: 0.006597
+[Epoch 537] TrainUALNet: 1 | Train_UALNet_Loss: 0.000513 | Train_D_Loss: 0.011231 | Real_Prob: 0.997971 | Fake_Prob: 0.008247
+[Epoch 538] TrainUALNet: 1 | Train_UALNet_Loss: 0.000512 | Train_D_Loss: 0.009893 | Real_Prob: 0.997971 | Fake_Prob: 0.007380
+[Epoch 539] TrainUALNet: 1 | Train_UALNet_Loss: 0.000510 | Train_D_Loss: 0.011949 | Real_Prob: 0.997971 | Fake_Prob: 0.008974
+[Epoch 540] TrainUALNet: 1 | Train_UALNet_Loss: 0.000509 | Train_D_Loss: 0.012477 | Real_Prob: 0.997970 | Fake_Prob: 0.009159
+[Epoch 540] UALNet Test | PSNR: 32.357620 | SAM: 2.097841
+[Epoch 541] TrainUALNet: 1 | Train_UALNet_Loss: 0.000512 | Train_D_Loss: 0.011390 | Real_Prob: 0.997971 | Fake_Prob: 0.008393
+[Epoch 542] TrainUALNet: 1 | Train_UALNet_Loss: 0.000512 | Train_D_Loss: 0.010709 | Real_Prob: 0.997971 | Fake_Prob: 0.007904
+[Epoch 543] TrainUALNet: 1 | Train_UALNet_Loss: 0.000510 | Train_D_Loss: 0.011593 | Real_Prob: 0.997970 | Fake_Prob: 0.008702
+[Epoch 544] TrainUALNet: 1 | Train_UALNet_Loss: 0.000509 | Train_D_Loss: 0.011072 | Real_Prob: 0.997970 | Fake_Prob: 0.008127
+[Epoch 545] TrainUALNet: 1 | Train_UALNet_Loss: 0.000508 | Train_D_Loss: 0.011829 | Real_Prob: 0.997783 | Fake_Prob: 0.008800
+[Epoch 545] UALNet Test | PSNR: 32.361294 | SAM: 2.093826
+[Epoch 546] TrainUALNet: 1 | Train_UALNet_Loss: 0.000511 | Train_D_Loss: 0.011121 | Real_Prob: 0.997971 | Fake_Prob: 0.008099
+[Epoch 547] TrainUALNet: 1 | Train_UALNet_Loss: 0.000509 | Train_D_Loss: 0.012798 | Real_Prob: 0.997971 | Fake_Prob: 0.009358
+[Epoch 548] TrainUALNet: 1 | Train_UALNet_Loss: 0.000510 | Train_D_Loss: 0.011330 | Real_Prob: 0.997970 | Fake_Prob: 0.008376
+[Epoch 549] TrainUALNet: 1 | Train_UALNet_Loss: 0.000510 | Train_D_Loss: 0.012016 | Real_Prob: 0.997970 | Fake_Prob: 0.008981
+[Epoch 550] TrainUALNet: 1 | Train_UALNet_Loss: 0.000514 | Train_D_Loss: 0.011746 | Real_Prob: 0.997971 | Fake_Prob: 0.008598
+[Epoch 550] UALNet Test | PSNR: 32.382507 | SAM: 2.100322
+[Best UALNet Updated] Epoch: 550 | PSNR: 32.382507 | SAM: 2.100322
+[Epoch 551] TrainUALNet: 1 | Train_UALNet_Loss: 0.000512 | Train_D_Loss: 0.012170 | Real_Prob: 0.997971 | Fake_Prob: 0.008987
+[Epoch 552] TrainUALNet: 1 | Train_UALNet_Loss: 0.000509 | Train_D_Loss: 0.011857 | Real_Prob: 0.997971 | Fake_Prob: 0.008763
+[Epoch 553] TrainUALNet: 1 | Train_UALNet_Loss: 0.000509 | Train_D_Loss: 0.011656 | Real_Prob: 0.997971 | Fake_Prob: 0.008754
+[Epoch 554] TrainUALNet: 1 | Train_UALNet_Loss: 0.000509 | Train_D_Loss: 0.012575 | Real_Prob: 0.997970 | Fake_Prob: 0.009229
+[Epoch 555] TrainUALNet: 1 | Train_UALNet_Loss: 0.000508 | Train_D_Loss: 0.011674 | Real_Prob: 0.997970 | Fake_Prob: 0.008785
+[Epoch 555] UALNet Test | PSNR: 32.348934 | SAM: 2.092144
+[Epoch 556] TrainUALNet: 1 | Train_UALNet_Loss: 0.000509 | Train_D_Loss: 0.012388 | Real_Prob: 0.997971 | Fake_Prob: 0.009253
+[Epoch 557] TrainUALNet: 1 | Train_UALNet_Loss: 0.000510 | Train_D_Loss: 0.012245 | Real_Prob: 0.997971 | Fake_Prob: 0.009163
+[Epoch 558] TrainUALNet: 1 | Train_UALNet_Loss: 0.000506 | Train_D_Loss: 0.012785 | Real_Prob: 0.997971 | Fake_Prob: 0.009549
+[Epoch 559] TrainUALNet: 1 | Train_UALNet_Loss: 0.000509 | Train_D_Loss: 0.011969 | Real_Prob: 0.997971 | Fake_Prob: 0.008951
+[Epoch 560] TrainUALNet: 1 | Train_UALNet_Loss: 0.000508 | Train_D_Loss: 0.012635 | Real_Prob: 0.997971 | Fake_Prob: 0.009234
+[Epoch 560] UALNet Test | PSNR: 32.362808 | SAM: 2.095797
+[Epoch 561] TrainUALNet: 1 | Train_UALNet_Loss: 0.000508 | Train_D_Loss: 0.010632 | Real_Prob: 0.997971 | Fake_Prob: 0.007892
+[Epoch 562] TrainUALNet: 1 | Train_UALNet_Loss: 0.000508 | Train_D_Loss: 0.011509 | Real_Prob: 0.997971 | Fake_Prob: 0.008636
+[Epoch 563] TrainUALNet: 1 | Train_UALNet_Loss: 0.000509 | Train_D_Loss: 0.012419 | Real_Prob: 0.997971 | Fake_Prob: 0.009204
+[Epoch 564] TrainUALNet: 1 | Train_UALNet_Loss: 0.000506 | Train_D_Loss: 0.012522 | Real_Prob: 0.997959 | Fake_Prob: 0.009190
+[Epoch 565] TrainUALNet: 1 | Train_UALNet_Loss: 0.000507 | Train_D_Loss: 0.011876 | Real_Prob: 0.997971 | Fake_Prob: 0.008971
+[Epoch 565] UALNet Test | PSNR: 32.359306 | SAM: 2.083733
+[Epoch 566] TrainUALNet: 1 | Train_UALNet_Loss: 0.000508 | Train_D_Loss: 0.012840 | Real_Prob: 0.997971 | Fake_Prob: 0.009552
+[Epoch 567] TrainUALNet: 1 | Train_UALNet_Loss: 0.000506 | Train_D_Loss: 0.013361 | Real_Prob: 0.997970 | Fake_Prob: 0.010064
+[Epoch 568] TrainUALNet: 1 | Train_UALNet_Loss: 0.000509 | Train_D_Loss: 0.012969 | Real_Prob: 0.997970 | Fake_Prob: 0.009553
+[Epoch 569] TrainUALNet: 1 | Train_UALNet_Loss: 0.000506 | Train_D_Loss: 0.011414 | Real_Prob: 0.997971 | Fake_Prob: 0.008667
+[Epoch 570] TrainUALNet: 1 | Train_UALNet_Loss: 0.000509 | Train_D_Loss: 0.013125 | Real_Prob: 0.997970 | Fake_Prob: 0.009758
+[Epoch 570] UALNet Test | PSNR: 32.357803 | SAM: 2.093592
+[Epoch 571] TrainUALNet: 1 | Train_UALNet_Loss: 0.000506 | Train_D_Loss: 0.012004 | Real_Prob: 0.997971 | Fake_Prob: 0.008788
+[Epoch 572] TrainUALNet: 1 | Train_UALNet_Loss: 0.000506 | Train_D_Loss: 0.012647 | Real_Prob: 0.997971 | Fake_Prob: 0.009558
+[Epoch 573] TrainUALNet: 1 | Train_UALNet_Loss: 0.000509 | Train_D_Loss: 0.013926 | Real_Prob: 0.997971 | Fake_Prob: 0.010490
+[Epoch 574] TrainUALNet: 1 | Train_UALNet_Loss: 0.000507 | Train_D_Loss: 0.013218 | Real_Prob: 0.997970 | Fake_Prob: 0.009847
+[Epoch 575] TrainUALNet: 1 | Train_UALNet_Loss: 0.000505 | Train_D_Loss: 0.013519 | Real_Prob: 0.997971 | Fake_Prob: 0.010064
+[Epoch 575] UALNet Test | PSNR: 32.384693 | SAM: 2.090657
+[Best UALNet Updated] Epoch: 575 | PSNR: 32.384693 | SAM: 2.090657
+[Epoch 576] TrainUALNet: 1 | Train_UALNet_Loss: 0.000505 | Train_D_Loss: 0.012832 | Real_Prob: 0.997970 | Fake_Prob: 0.009554
+[Epoch 577] TrainUALNet: 1 | Train_UALNet_Loss: 0.000506 | Train_D_Loss: 0.013890 | Real_Prob: 0.997971 | Fake_Prob: 0.010368
+[Epoch 578] TrainUALNet: 1 | Train_UALNet_Loss: 0.000506 | Train_D_Loss: 0.013308 | Real_Prob: 0.997971 | Fake_Prob: 0.009860
+[Epoch 579] TrainUALNet: 1 | Train_UALNet_Loss: 0.000507 | Train_D_Loss: 0.012344 | Real_Prob: 0.997970 | Fake_Prob: 0.009523
+[Epoch 580] TrainUALNet: 1 | Train_UALNet_Loss: 0.000505 | Train_D_Loss: 0.012489 | Real_Prob: 0.997970 | Fake_Prob: 0.009285
+[Epoch 580] UALNet Test | PSNR: 32.374290 | SAM: 2.087355
+[Epoch 581] TrainUALNet: 1 | Train_UALNet_Loss: 0.000504 | Train_D_Loss: 0.013042 | Real_Prob: 0.997970 | Fake_Prob: 0.009640
+[Epoch 582] TrainUALNet: 1 | Train_UALNet_Loss: 0.000507 | Train_D_Loss: 0.012868 | Real_Prob: 0.997971 | Fake_Prob: 0.009842
+[Epoch 583] TrainUALNet: 1 | Train_UALNet_Loss: 0.000505 | Train_D_Loss: 0.013347 | Real_Prob: 0.997971 | Fake_Prob: 0.009826
+[Epoch 584] TrainUALNet: 1 | Train_UALNet_Loss: 0.000504 | Train_D_Loss: 0.014557 | Real_Prob: 0.997970 | Fake_Prob: 0.011020
+[Epoch 585] TrainUALNet: 1 | Train_UALNet_Loss: 0.000507 | Train_D_Loss: 0.014361 | Real_Prob: 0.997970 | Fake_Prob: 0.010834
+[Epoch 585] UALNet Test | PSNR: 32.380589 | SAM: 2.083564
+[Epoch 586] TrainUALNet: 1 | Train_UALNet_Loss: 0.000504 | Train_D_Loss: 0.012604 | Real_Prob: 0.997963 | Fake_Prob: 0.009306
+[Epoch 587] TrainUALNet: 1 | Train_UALNet_Loss: 0.000504 | Train_D_Loss: 0.013620 | Real_Prob: 0.997971 | Fake_Prob: 0.010183
+[Epoch 588] TrainUALNet: 1 | Train_UALNet_Loss: 0.000505 | Train_D_Loss: 0.013537 | Real_Prob: 0.997970 | Fake_Prob: 0.010000
+[Epoch 589] TrainUALNet: 1 | Train_UALNet_Loss: 0.000504 | Train_D_Loss: 0.014411 | Real_Prob: 0.997971 | Fake_Prob: 0.010854
+[Epoch 590] TrainUALNet: 1 | Train_UALNet_Loss: 0.000504 | Train_D_Loss: 0.013520 | Real_Prob: 0.997971 | Fake_Prob: 0.010120
+[Epoch 590] UALNet Test | PSNR: 32.390110 | SAM: 2.088220
+[Best UALNet Updated] Epoch: 590 | PSNR: 32.390110 | SAM: 2.088220
+[Epoch 591] TrainUALNet: 1 | Train_UALNet_Loss: 0.000503 | Train_D_Loss: 0.014548 | Real_Prob: 0.997783 | Fake_Prob: 0.010875
+[Epoch 592] TrainUALNet: 1 | Train_UALNet_Loss: 0.000504 | Train_D_Loss: 0.013408 | Real_Prob: 0.997970 | Fake_Prob: 0.009942
+[Epoch 593] TrainUALNet: 1 | Train_UALNet_Loss: 0.000504 | Train_D_Loss: 0.014316 | Real_Prob: 0.997971 | Fake_Prob: 0.011066
+[Epoch 594] TrainUALNet: 1 | Train_UALNet_Loss: 0.000504 | Train_D_Loss: 0.013539 | Real_Prob: 0.997971 | Fake_Prob: 0.010073
+[Epoch 595] TrainUALNet: 1 | Train_UALNet_Loss: 0.000504 | Train_D_Loss: 0.015339 | Real_Prob: 0.997971 | Fake_Prob: 0.011521
+[Epoch 595] UALNet Test | PSNR: 32.340691 | SAM: 2.101996
+[Epoch 596] TrainUALNet: 1 | Train_UALNet_Loss: 0.000506 | Train_D_Loss: 0.013513 | Real_Prob: 0.997970 | Fake_Prob: 0.010231
+[Epoch 597] TrainUALNet: 1 | Train_UALNet_Loss: 0.000506 | Train_D_Loss: 0.016000 | Real_Prob: 0.997970 | Fake_Prob: 0.012057
+[Epoch 598] TrainUALNet: 1 | Train_UALNet_Loss: 0.000508 | Train_D_Loss: 0.013479 | Real_Prob: 0.997971 | Fake_Prob: 0.010133
+[Epoch 599] TrainUALNet: 1 | Train_UALNet_Loss: 0.000504 | Train_D_Loss: 0.014262 | Real_Prob: 0.997970 | Fake_Prob: 0.010667
+Final Validation | PSNR: 32.544960 | SAM: 2.442394
